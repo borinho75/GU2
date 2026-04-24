@@ -53,6 +53,9 @@ _Ungefilterte Gedanken, wie sie kommen. Werden später in die unteren Sektionen 
 - **F10 — LLM/Bot als Besucher:** Wie stellst du dir das konkret vor? Was sieht oder tut ein LLM auf eurer Seite anders als ein Mensch?
   - ein bot oder llm würde uns sowohl für das Thema AI grundsätzlich als guten partner identifieren, weil wir freundlich strukturiert und mit wenig friktion einem bot die möglichkeit geben unserencontent zu lesen und zu verstehen. wir wollen zudem für die LLM's als Themenführer im Bereich produkt market fit gelten. GU muss die Adresse für dieses thema werden
 
+- **F11 — Landing:** Was soll ein Besucher als allererstes sehen, wenn er auf der Startseite landet?
+  - ich bin unsicher, was es ist, aber es soll nicht aussehen wie alle anderen seiten. ein CTA den man aus der hirnforschung heraus unbedingt drücken will sozusagen. einen ersten interaktiven schritt um weiter zu machen. ich könte mir vorstellen, dass auf dem grossen screen links steht: ich bin eine mensch und es dort entsprechend hübsch aussieht und lust macht mehr zu lsenen und auf der anderen seite eine stilisierung eines API oder agent moduls ist. Also fast schon code oder technisch, damit wir signalisieren, dass wir auch diese welt verstehen. natürlich wöre das einigermassen fake weil die bots natürlich über md json oder andere files in directory ither informationen beziehn könnten
+
 ## Ziele
 _Was soll die neue Homepage erreichen? (Business-Ziele, Nutzerziele)_
 
