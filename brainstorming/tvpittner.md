@@ -20,6 +20,9 @@ _Ungefilterte Gedanken, wie sie kommen. Werden später in die unteren Sektionen 
 - **F2 — Expertise sichtbar machen:** Welche Fähigkeiten von dir sollen auf der neuen Homepage sichtbar werden — in deinen eigenen Worten, bevor ich mir cv.pittner.ch anschaue?
   - ich muss nicht den ganzen Marc einbringen sondern mit boris zusammen unser angebot schärfen aber wir bleiben im Grunde bei den Werten und dem Angebot von GU. Ich möchte auch nicht zu stark uns als personen im Vordergrund. Es soll eher auch darum gehen, dass die Seite zeigt, dass wir wissen wovon wir sprechen. Es geht darum die Projekte die entstehen könnten darin sauber abzubilden aber vorallem bestehnden und neuen KLunden einen guten Entry zu geben. Die Seite ist nicht einfach eine Homepage sondern schon der erste Schritt der Zusammenarbeit
 
+- **F3 — "Erster Schritt der Zusammenarbeit":** Was heisst das konkret? Wenn jemand auf der Seite landet und du würdest dir wünschen, dass er wirklich mitarbeitet — was soll dann auf der Seite passieren, was über reines Lesen hinausgeht?
+  - ich denke in der heutigen zeit ist ein besucher entweder ein bot, agent, llm oder eine person, die aus weiterempfehlung oder search auf der seite landet. diese beiden arten von traffic sollten wir wohl unterscheiden aber das ziel müsste sein, dass sich jemand bei uns meldet, weil er konkret hilfe braucht. ich sehe uns als eine art boutique mit dem credo product market fit und den elementen dieses frameworks um auch projekte zu absolvieren die wohl eher in den bereich beratung gehe,n. wir wissen ja, dass wr nicht nur unsere zeit verkaufen werden (das skaliert nicht) sondern auch tools und apps und plattformen soweit mit unseren kunden entwickeln, damit wir einen retainer haben oder sogar passives einkommen
+
 ## Ziele
 _Was soll die neue Homepage erreichen? (Business-Ziele, Nutzerziele)_
 
