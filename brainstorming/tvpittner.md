@@ -44,6 +44,9 @@ _Ungefilterte Gedanken, wie sie kommen. Werden später in die unteren Sektionen 
   - bedürfnisse nach neuen oder besseren automatisierungstools weil fachkräftemangel gerade in diesen bereich immer mühsamer werden
   - unsicherheit bezüglich cyber security iaber nicht technisch sondern eher emotional
 
+- **F8 — Einzeiler:** Wenn du einem potentiellen KMU-Kunden in einem einzigen Satz sagen müsstest, wofür GU da ist — was wäre dieser Satz?
+  - wir analysieren mit einem kunden, was tatsächlich das problem ist, was er lösen will (in der regel technisch, digital, strategisch oder marketing. dann stellen wir die richtigen fragen, erstellen mit ihm einen klaren weg zum ziel und definieren, wo wir selber oder mit dritten in die umsetzung gehen
+
 ## Ziele
 _Was soll die neue Homepage erreichen? (Business-Ziele, Nutzerziele)_
 
