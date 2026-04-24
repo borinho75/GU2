@@ -77,7 +77,37 @@ Wenn ihr morgen 10 perfekte Kunden wünschen könntet — wer sind die? Optionen
 Fokus-Prinzip: **Eine primäre ICP wählen** — öffnen kann man später.
 
 **Boris' Gedanken:**
-> _(wird im Interview gefüllt)_
+
+> **ICP (gelockt):** Owner-/Founder-CEO einer **30–300-MA-Firma** mit **existierendem Produkt**, unter **Innovations-Geschwindigkeits-Druck** (oft AI-getrieben), der **in Wochen entscheidet** (nicht Monaten).
+>
+> **Industrie-agnostisch.** Vereint durch Entscheider-Profil + Pain, nicht durch Branche. Pipeline-Beweis: Accounting (BDO), Sporttech (INSCYD), Food (Aeschbach) — drei komplett verschiedene Industrien, gleiches Entscheider-Profil.
+>
+> **Filter-Kriterien:**
+> - ✅ Owner/Founder-CEO mit Budget-Autorität
+> - ✅ 30–300 Mitarbeitende
+> - ✅ Existierendes Produkt (PMF vorhanden, unter Druck)
+> - ✅ Innovations-Geschwindigkeits-Pain (AI-Disruption oder interne Velocity-Krise)
+> - ✅ Entscheidet in Wochen, nicht in Monaten
+>
+> **Ausschluss:**
+> - ❌ Pre-PMF Startups (kein Cash, nichts zu schützen)
+> - ❌ Stabile KMU ohne Disruptionsdruck (kein Urgency)
+> - ❌ Corporate Innovation Leads (keine Entscheidungs-Autorität)
+> - ❌ Grosskonzerne >500 MA (Board-Politik, Sales-Zyklen zu lang)
+>
+> **Konkrete Pipeline-Beispiele (Stand Interview):**
+> - BDO Innerschweiz (Accounting, 200 MA) — in Gesprächen
+> - INSCYD (Sporttech, 30 MA) — in Gesprächen
+> - Aeschbach Chocolatier (Food, 50 MA) — in Gesprächen
+> - EBP (Engineering, 2000 MA) — **Bestandskunde, NICHT Teil der neuen ICP-Akquise.** Cash-Quelle, aber Website wird nicht für EBP-Typen gebaut.
+>
+> **Pipeline-Potenzial aus Netzwerk:** 100–200 erreichbare Kontakte in 8 Wochen (LinkedIn/Alumni/Innosuisse/Stanford). → Website muss primär **warmen Traffic konvertieren** (Leute, die Boris googeln, nachdem sie angesprochen wurden), nicht Cold-SEO gewinnen.
+
+**Konsequenz für Website-Relaunch:**
+- Sprache adressiert *eine Person* (Owner-CEO), nicht drei Segmente.
+- Case Studies kommen quer durch Industrien, verbunden durch Profil.
+- Primärer CTA: 30-Minuten-Diagnose-Call (Friction niedrig, Entscheider kann sofort).
+- SEO kein Primärziel — LinkedIn + persönliches Netzwerk + Buch-Launch = Traffic-Quellen.
 
 ---
 
