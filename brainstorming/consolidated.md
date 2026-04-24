@@ -261,9 +261,30 @@ Marcs Beobachtung *"Bots kommen über .htaccess / txt / md oft gar nicht bis zur
 - Frage: Sieht Boris das auch so? Oder ist das ein Marc-Special?
 - Wenn ja: das ist eine echte Differenzierung (siehe `claudebrain.md` Abschnitt 5)
 
-**Entscheidung:** _(zu füllen)_
+### Entscheidung ✅ — LLM-Friendliness-Programm gelockt, Scope v1/v2 definiert
 
-**Begründung:** _(zu füllen)_
+**Scope-Matrix:**
+
+| Baustein | v1-Must | v1-Nice | v2+ |
+|---|---|---|---|
+| `llms.txt` im Root | ✅ | | |
+| Semantisches HTML + JSON-LD (Organization, Person, Article) | ✅ | | |
+| Sitemap + LLM-freundliche `robots.txt` | ✅ | | |
+| OpenGraph / Twitter Cards | ✅ | | |
+| **Symbolischer Agent-Block im Hero** (siehe SF5 Variante B) — "klares visuelles Statement" | **✅** | | |
+| Markdown-Mirror aller Hauptseiten | | ✅ | |
+| Kontext-Pack als Download (`context.md`) | | ✅ | |
+| "Frag deinen LLM über uns"-Prompt-Open | | ✅ | |
+
+**Begründung:**
+- Boris: "OK" — Zustimmung zum vorgeschlagenen Programm.
+- Marc: "Symbolischer Agent-Block im Hero irgendwie visuell verfügbar als klares Statement — ja." → v1-Must.
+- **Technischer Anker aus SF5:** Echte Bot-Freundlichkeit lebt auf Server-Ebene (llms.txt, robots.txt, Header). Der Hero-Agent-Block ist **symbolisches Statement an Menschen**, nicht die funktionale Bot-Adresse.
+
+**Konsequenz:**
+- Technischer Minimal-Stack für Launch: llms.txt + JSON-LD + semantisches HTML + Sitemap + robots.txt + OpenGraph + sichtbarer Agent-Block-Signal.
+- MD-Mirror und Kontext-Pack-Download sind "Nice" — aufwandsarm nachziehbar, wenn v1 steht.
+- Prompt-Open-Experience ist optional v1-Nice — verbunden mit dem interaktiven AI-Mini-Einstieg aus SF4 (könnte dasselbe Asset sein).
 
 ---
 
@@ -290,5 +311,5 @@ Marcs Beobachtung *"Bots kommen über .htaccess / txt / md oft gar nicht bis zur
 - ✅ Produkt-/Subscription-Modell (3a/3b/3c) — 3-Stufen-Funnel + Coaching-Prämie + Hybrid-Pricing-Transparenz
 - ✅ CTA-Modell — niederschwelliger AI-Mini-Einstieg als Primär, Diagnose sekundär, kein Chatbot
 - ✅ Visuals / Landing — parken ins Design-Briefing, zwei Varianten (Split vs. embedded Agent-Block)
-- ⬜ LLM-Friendliness
+- ✅ LLM-Friendliness — Scope v1/v2 definiert, Agent-Block visuell in v1-Must
 - ⬜ Parking Lot abgearbeitet
