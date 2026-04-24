@@ -26,6 +26,9 @@ _Ungefilterte Gedanken, wie sie kommen. Werden später in die unteren Sektionen 
 - **F4 — Boutique vs. klassische Beratung:** Was macht aus GU die "Boutique" — woran würde ein Kunde in der Zusammenarbeit merken, dass er bei euch ist und nicht bei einer klassischen Beratung?
   - wir haben beide sehr viel erfahrung und komplementäre stärken. kunden sollten aber in erster linie wissen, dass wir ihnen pragmatisch und einfach helfen probleme zu formulieren und diese zu lösen. PMF ist unser haupt standbein aber wir können auch homepages bauen oder tools konzipieren, damit gehen wir ganz sakrosankt den weg, dass wir mit primär mit hilfe der neuen möglichkeiten mit claude, openair und all den AI anbietern haben. wir sind keine agentur, wir wollen keine wordpress seiten verkaufen, wir sind keine klassischen berater.
 
+- **F5 — Zielgruppe:** An wen richtet ihr euch konkret? Wer ist der typische Kunde, der mit welcher Art von Problem bei euch landen soll?
+  - wir denken über viel einflugvektoren nach, sind uns aber klar, dass das zu viel ist. aber wir sehen startups/neugründer, KMU mit konkreten Admini und PMF Bedürfnissen, corporates mit intraprneurship und tools um ihren mitarbeitern digital / AI literacy zu ermöglichen und viertens die VC und Finanzierungswelt, die uns flankierend braucht bei assessments etc. von der expertise her sind die startups gesetzt. die kmu welt kennen wir besser als die corporates
+
 ## Ziele
 _Was soll die neue Homepage erreichen? (Business-Ziele, Nutzerziele)_
 
