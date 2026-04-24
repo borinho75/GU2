@@ -29,6 +29,13 @@ _Ungefilterte Gedanken, wie sie kommen. Werden später in die unteren Sektionen 
 - **F5 — Zielgruppe:** An wen richtet ihr euch konkret? Wer ist der typische Kunde, der mit welcher Art von Problem bei euch landen soll?
   - wir denken über viel einflugvektoren nach, sind uns aber klar, dass das zu viel ist. aber wir sehen startups/neugründer, KMU mit konkreten Admini und PMF Bedürfnissen, corporates mit intraprneurship und tools um ihren mitarbeitern digital / AI literacy zu ermöglichen und viertens die VC und Finanzierungswelt, die uns flankierend braucht bei assessments etc. von der expertise her sind die startups gesetzt. die kmu welt kennen wir besser als die corporates
 
+- **F6 — Priorisierung einer Zielgruppe:** Wenn die Homepage nur EINE dieser vier Zielgruppen als Hauptadressat haben dürfte — bei welcher würdest du landen, und warum?
+  - dreifache antwort
+  - aus finanziellen gründen: KMU weil dort bestehend Geld und need gross sind
+  - inhaltlich, stratups, weil wir diese am besten kennen und ihnen helfen können, allerdings ist das thema geld und kosten dort immer ein struggle
+  - corporate, weil das thema intrapreneurship so unglaublich wichtig ist und dort sehr viel potential ist.
+  - daraus leite ich ab, dass wir bei den mittleren KMU wohl einen sweetsport haben und die startups über kurz oder lang mit einem automatisertern oder teilautomatiserten angebot abfeieren können
+
 ## Ziele
 _Was soll die neue Homepage erreichen? (Business-Ziele, Nutzerziele)_
 
