@@ -3,6 +3,15 @@
 > Persönlicher Input für die neue Homepage. Einfach frei reinschreiben, grobe Notizen sind völlig okay.
 > Die Inhalte werden später in `consolidated.md` mit den anderen Eingaben zusammengeführt.
 
+## Meta / Arbeitsweise
+- Analyse der bestehenden Seite (https://growthunltd.com/) übernimmt Boris mit seiner Claude-Instanz — hier nicht duplizieren.
+- Dieses File wird iterativ befüllt: zuerst Rohnotizen als Freitext-Dump, danach Einsortierung in die Struktur-Sektionen.
+
+## Rohnotizen (Freitext-Dump)
+_Ungefilterte Gedanken, wie sie kommen. Werden später in die unteren Sektionen einsortiert._
+
+-
+
 ## Ziele
 _Was soll die neue Homepage erreichen? (Business-Ziele, Nutzerziele)_
 
