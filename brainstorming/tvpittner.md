@@ -36,6 +36,14 @@ _Ungefilterte Gedanken, wie sie kommen. Werden später in die unteren Sektionen 
   - corporate, weil das thema intrapreneurship so unglaublich wichtig ist und dort sehr viel potential ist.
   - daraus leite ich ab, dass wir bei den mittleren KMU wohl einen sweetsport haben und die startups über kurz oder lang mit einem automatisertern oder teilautomatiserten angebot abfeieren können
 
+- **F7 — KMU-Kundenprobleme:** Was ist das typische Problem, mit dem ein mittleres KMU zu euch kommt — oder kommen sollte?
+  - unsicherheit in allen sachen AI
+  - ein homepageprojekt, dass er von jemandem geführt an einen neuen anbieter geben will, oder eine eigene lösung sucht.
+  - neue produkte oder neue produktlinien, die er in den markt bringen will
+  - unsicheheit bezüglich marketing in der digitalen welt
+  - bedürfnisse nach neuen oder besseren automatisierungstools weil fachkräftemangel gerade in diesen bereich immer mühsamer werden
+  - unsicherheit bezüglich cyber security iaber nicht technisch sondern eher emotional
+
 ## Ziele
 _Was soll die neue Homepage erreichen? (Business-Ziele, Nutzerziele)_
 
