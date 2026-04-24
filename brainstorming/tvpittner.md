@@ -56,6 +56,9 @@ _Ungefilterte Gedanken, wie sie kommen. Werden später in die unteren Sektionen 
 - **F11 — Landing:** Was soll ein Besucher als allererstes sehen, wenn er auf der Startseite landet?
   - ich bin unsicher, was es ist, aber es soll nicht aussehen wie alle anderen seiten. ein CTA den man aus der hirnforschung heraus unbedingt drücken will sozusagen. einen ersten interaktiven schritt um weiter zu machen. ich könte mir vorstellen, dass auf dem grossen screen links steht: ich bin eine mensch und es dort entsprechend hübsch aussieht und lust macht mehr zu lsenen und auf der anderen seite eine stilisierung eines API oder agent moduls ist. Also fast schon code oder technisch, damit wir signalisieren, dass wir auch diese welt verstehen. natürlich wöre das einigermassen fake weil die bots natürlich über md json oder andere files in directory ither informationen beziehn könnten
 
+- **F12 — Weg des Menschen:** Was findet der menschliche Besucher auf der nächsten Ebene? Welche Inhalte, in welcher Reihenfolge?
+  - entweder will er sich zu uns und unseren projekten informieren, oder es will grundsätrzlich etwas zu pmf erfahren
+
 ## Ziele
 _Was soll die neue Homepage erreichen? (Business-Ziele, Nutzerziele)_
 
