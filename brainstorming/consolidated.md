@@ -1,40 +1,40 @@
-# Homepage Brainstorming — Consolidated
+# Homepage-Brainstorming — Konsolidiert
 
-> Merged view of inputs from `boris.md` and `tvpittner.md`.
-> Fill in once both individual files have been completed.
+> Zusammengeführte Sicht aus `boris.md` und `tvpittner.md`.
+> Wird ausgefüllt, sobald beide Einzeldokumente fertig sind.
 
-## Shared Direction
-_Where Boris and tvpittner agree — the strongest signals._
+## Gemeinsame Richtung
+_Wo Boris und tvpittner übereinstimmen — die stärksten Signale._
 
 -
 
-## Goals
+## Ziele
 -
 
-## Target Audience
+## Zielgruppe
 -
 
-## Key Messages
+## Kernbotschaften
 -
 
-## Sections / Layout
+## Sektionen / Aufbau
 -
 
-## Visuals & Tone
+## Visuals & Tonalität
 -
 
 ## Calls to Action
 -
 
-## Divergences & Trade-offs
-_Where the two inputs differ and a decision is needed._
+## Abweichungen & Trade-offs
+_Wo die Inputs auseinandergehen und eine Entscheidung nötig ist._
 
-| Topic | Boris | tvpittner | Decision |
+| Thema | Boris | tvpittner | Entscheidung |
 | --- | --- | --- | --- |
 |  |  |  |  |
 
-## Inspirations / References
+## Inspirationen / Referenzen
 -
 
-## Open Questions & Next Steps
+## Offene Fragen & nächste Schritte
 -

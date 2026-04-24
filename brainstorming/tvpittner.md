@@ -1,44 +1,44 @@
-# Homepage Brainstorming — tvpittner
+# Homepage-Brainstorming — tvpittner
 
-> Personal input for the new homepage. Fill in freely; rough notes are fine.
-> This will be merged with the other inputs in `consolidated.md`.
+> Persönlicher Input für die neue Homepage. Einfach frei reinschreiben, grobe Notizen sind völlig okay.
+> Die Inhalte werden später in `consolidated.md` mit den anderen Eingaben zusammengeführt.
 
-## Goals
-_What should the new homepage achieve? (business goals, user goals)_
-
--
-
-## Target Audience
-_Who are we building this for? Primary + secondary personas._
+## Ziele
+_Was soll die neue Homepage erreichen? (Business-Ziele, Nutzerziele)_
 
 -
 
-## Key Messages
-_Top 3–5 things a visitor must take away within 10 seconds._
+## Zielgruppe
+_Für wen bauen wir das? Primäre und sekundäre Personas._
 
 -
 
-## Sections / Layout
-_Which sections should appear, in what order?_
+## Kernbotschaften
+_Die 3–5 wichtigsten Dinge, die ein Besucher in 10 Sekunden mitnehmen soll._
 
 -
 
-## Visuals & Tone
-_Style, color direction, imagery, voice (formal / playful / technical …)._
+## Sektionen / Aufbau
+_Welche Bereiche sollen vorkommen, in welcher Reihenfolge?_
+
+-
+
+## Visuals & Tonalität
+_Stil, Farbrichtung, Bildsprache, Tonfall (seriös / verspielt / technisch …)._
 
 -
 
 ## Calls to Action
-_Primary CTA, secondary CTAs, where they appear._
+_Primärer CTA, sekundäre CTAs, wo sie auftauchen._
 
 -
 
-## Inspirations / References
-_Links to homepages you like and why._
+## Inspirationen / Referenzen
+_Links zu Homepages, die dir gefallen, und warum._
 
 -
 
-## Open Questions
-_Things you're unsure about or want to discuss._
+## Offene Fragen
+_Punkte, bei denen du unsicher bist oder die diskutiert werden sollen._
 
 -
