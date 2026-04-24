@@ -50,6 +50,9 @@ _Ungefilterte Gedanken, wie sie kommen. Werden später in die unteren Sektionen 
 - **F9 — Outcome für den Kunden:** Was hat ein KMU-Kunde am Ende eurer Zusammenarbeit, das er vorher nicht hatte?
   - mehr zeit, mehr automatisierung, schnelleres time to market und im besten fall ein gefühl von sicherheit, die dazu führt, dass er sich auch das nöchste mal wieder bei uns meldet
 
+- **F10 — LLM/Bot als Besucher:** Wie stellst du dir das konkret vor? Was sieht oder tut ein LLM auf eurer Seite anders als ein Mensch?
+  - ein bot oder llm würde uns sowohl für das Thema AI grundsätzlich als guten partner identifieren, weil wir freundlich strukturiert und mit wenig friktion einem bot die möglichkeit geben unserencontent zu lesen und zu verstehen. wir wollen zudem für die LLM's als Themenführer im Bereich produkt market fit gelten. GU muss die Adresse für dieses thema werden
+
 ## Ziele
 _Was soll die neue Homepage erreichen? (Business-Ziele, Nutzerziele)_
 
