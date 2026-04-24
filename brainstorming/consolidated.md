@@ -131,13 +131,27 @@ Automatisiertes PMF-Tool (Marc) ist durch SF1 (Multi-Domain) bereits verortet: *
 - Marc: "Ich bin dafür, gewisse Projekte as is einmalig zu erarbeiten, diese aber ebenfalls als Teil der Expertise relativ teuer zu machen, weil wir auch dort ein Coaching machen. Sonst ist das Subscription- und Retainer-Modell stimmig."
 - Beide wollen Retainer/Subscription als Kern. Boris strenger ("alles in Retainer umwandeln"), Marc offener ("Einmal-Projekte OK, aber teuer"). Kompromiss: Einmal-Projekte als Ausnahme, nicht als Regel, mit Coaching-Prämie.
 
-### 3c — Pricing-Transparenz ⬜ OFFEN
+### 3c — Pricing-Transparenz ✅ ENTSCHIEDEN
 
-_(noch zu entscheiden — kurze Nachfrage)_
+**Entscheidung:** **Hybrid (tendierend zu offen), als v1 mit Monitoring.**
 
-**Entscheidung:** _(zu füllen)_
+| Stufe | Transparenz | Form |
+|---|---|---|
+| Diagnose | Voller Preis | "CHF 8–15k, 3–4 Wochen, Diagnosebericht + Debrief" |
+| Subscription-Tiers (Signal/Rhythm/Edge) | Voller Preis | Klassische 3-Tier-Pricing-Tabelle |
+| 90-Day Transformation | Preisrahmen, kein Fixpreis | "CHF 30–220k je nach Scope" |
+| Strategische Partnerschaft | Ab-Preis | "ab CHF X/Monat" |
 
-**Begründung:** _(zu füllen)_
+**Begründung:**
+- Boris: "Keine grosse Meinung — wir überlassen es deiner Expertise" (Entscheidung an Claude delegiert).
+- Marc: "Das ist Teil unseres eigenen PMF" → iterativ, A/B-testbar.
+- Claudes Empfehlung auf Basis von Behavioral / Markt-Research:
+  1. Transparenz = Vertrauen in B2B (HBR, ProfitWell, Price Intelligently).
+  2. Konsistent mit Anti-Agentur-/Anti-Intransparenz-Haltung von GU.
+  3. Anchor-Effekt filtert früh — passt zur ICP (Owner-CEO, entscheidet in Wochen).
+  4. Tier-Pricing ist B2B-SaaS-Standard.
+  5. Transformation-Range (statt Fixpreis) erhält Scope-Gespräch ohne Intransparenz.
+- v1 live + Monitoring: Bei Fehlsteuerung nach 6 Monaten nachjustieren.
 
 ---
 
@@ -231,7 +245,7 @@ _(noch zu entscheiden — kurze Nachfrage)_
 
 - ✅ ICP / Zielgruppe — Boris' ICP, Multi-Domain für andere Zielgruppen
 - ✅ Tonalität (2a) + AI-Lautstärke (2b) — klar/urgent/no-nonsense, PMF als Hauptthema, AI als Mittel, Mensch-AI-Spannungsfeld als Expertise-Signal
-- ⬜ Produkt-/Subscription-Modell
+- ✅ Produkt-/Subscription-Modell (3a/3b/3c) — 3-Stufen-Funnel + Coaching-Prämie + Hybrid-Pricing-Transparenz
 - ⬜ CTA-Modell
 - ⬜ Visuals / Landing
 - ⬜ LLM-Friendliness
