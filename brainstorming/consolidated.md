@@ -288,19 +288,25 @@ Marcs Beobachtung *"Bots kommen über .htaccess / txt / md oft gar nicht bis zur
 
 ---
 
-## Lücken & Parking Lot (zu klären)
+## Lücken & Parking Lot — abgearbeitet
 
-- **Buch-Timing:** Erscheint "Human Signal" wann? Vor/synchron/nach Website-Launch?
-- **Marc-Ramp:** Boris schlägt vor: Trigger "2 Mandate + 1 Diagnose" → Marc voll. Marc's Commitment?
-- **Content-Pflege:** Wer schreibt PMF-Hub-Artikel? Wer pflegt nach Launch?
-- **EBP / Bestandskunden:** Boris klar — Cash-Quelle, nicht Website-ICP. Marc OK damit?
-- **Innosuisse:** Boris: "Credential, nicht Service-Linie". Marc OK damit?
-- **Sprache:** DE primär oder EN primär? Beides voll?
-- **Tech-Stack:** Eigenes Setup (Astro/Next + Markdown) oder anderes?
-- **URL/Brand:** Bleibt growthunltd.com? Oder Rebrand zu "GU"?
-- **Tool/Plattform-Visual-Tendenz:** Darf die Seite tooliger wirken oder bleibt sie Advisory-Ästhetik?
-- **Pricing-Transparenz:** Boris will Pricing offen zeigen. Marc OK?
-- **Hero-Wording:** Boris findet "Innovation" zu abstrakt. Alternativ-Begriffe für Hero-Headline sammeln beim konkreten Design (z. B. "PMF in der AI-Ära", "PMF verteidigen, wenn AI die Regeln ändert", etc.).
+### Strategisch (in Session entschieden)
+
+- **Buch-Timing:** "Human Signal" erscheint **nach** Website-Launch. Website ist nicht buch-synchron, aber buch-kompatibel (Buch-Teaser-Slot vorsehen).
+- **Marc-Ramp:** Marc geht **ab Mitte Mai 2026 voll 100%** — entspricht Boris' Trigger-Schwelle (2 Mandate + 1 Diagnose) und verkürzt die Capacity-Unterdeckung.
+- **EBP / Bestandskunden:** OK — Cash-Quelle, aber nicht Website-ICP. Sprache adressiert Owner-CEO der ICP, nicht EBP-Typen.
+- **Innosuisse:** OK — als Credential (*"Expert Coach — sieht 30+ Gründer/Jahr"*), nicht als Service-Linie.
+- **Sprache:** **DE + EN beide voll.** Seitengleiche Pflege. _(Gag-Notiz: Südkoreanisch/Chinesisch als Marketing-Gimmick hypothetisch "dazudenken" — nicht real umsetzen.)_
+- **URL / Brand:** bleibt `growthunltd.com`. Kein Rebrand.
+
+### Taktisch (fürs Design- / Build-Briefing)
+
+- **Tech-Stack:** Kein CMS. **Hardcoded, durch Claude administriert, gehostet auf Railway.** → schmaler Stack, Git-basiert, volle LLM-Friendliness-Kontrolle. (Empfehlung fürs Build: Astro oder Next mit Static-Export + Markdown-Content, Tailwind, auf Railway deployed.)
+- **Mini-AI-Experience (SF4 Primär-CTA):** Slot eingeplant, konkrete Experience kann v1 als **Platzhalter** starten. Nachziehen sobald Konzept steht. Kandidaten: PMF-Quick-Check, Signal-Noise-Analyse, AI-Readiness-Score.
+- **Hero-Wording:** offen — konkrete Formulierungen entstehen beim Design.
+- **Content-Pflege nach Launch:** **Alle 2 Wochen ein Content-Element** — alternierend aus Buch ("Human Signal") und eigenen Projekt-Erfahrungen. Verantwortlich: tbd (Boris führt, Marc ergänzt?).
+- **Agent-Block Mobile:** Reduktion auf **Icon mit Popover**, das die Info zeigt. Kein eigener Screen, kein Scrolling-Block.
+- **Visuelle Anmutung (SF5):** komplett offen, wird an Claude Design delegiert.
 
 ---
 
@@ -312,4 +318,16 @@ Marcs Beobachtung *"Bots kommen über .htaccess / txt / md oft gar nicht bis zur
 - ✅ CTA-Modell — niederschwelliger AI-Mini-Einstieg als Primär, Diagnose sekundär, kein Chatbot
 - ✅ Visuals / Landing — parken ins Design-Briefing, zwei Varianten (Split vs. embedded Agent-Block)
 - ✅ LLM-Friendliness — Scope v1/v2 definiert, Agent-Block visuell in v1-Must
-- ⬜ Parking Lot abgearbeitet
+- ✅ Parking Lot abgearbeitet
+
+**Brainstorming-Konsolidierung abgeschlossen.**
+
+---
+
+## Nächste Schritte
+
+1. **Design-Briefing** aus diesem File destillieren (Claude stellt das als separates `design-brief.md` zusammen — komprimiert, handlungsorientiert, Claude-Design-ready).
+2. **Claude Design** mit diesem Briefing füttern → Mockup-Varianten (insb. SF5: Split vs. embedded Agent-Block).
+3. **Auswahl** einer Design-Richtung gemeinsam.
+4. **Code-Umsetzung** hier in Claude Code: Astro/Next-Skeleton auf Railway, Markdown-Content-Layer, LLM-Friendliness-Stack (llms.txt, JSON-LD, robots.txt, Semantik, OpenGraph, Agent-Block).
+5. **v1-Launch** — Content noch dünn, Mini-AI-Experience als Platzhalter, Content-Cadence startet ab Launch (14-tägig).
