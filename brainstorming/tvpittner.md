@@ -77,6 +77,9 @@ _Ungefilterte Gedanken, wie sie kommen. Werden später in die unteren Sektionen 
 - **F18 — Tonalität:** Welchen Ton soll die Seite haben?
   - ansprechend, persönlich professionell und zurückhaltend. keine superlative, kein marketing bla bla
 
+- **F19 — Erfolgsmessung:** Wie misst du Erfolg der neuen Seite? Woran merkst du in 6 Monaten: das funktioniert?
+  - wir haben gemeinsam ein netzwerk von ca 200 kontakten, dei wir anschreiben könnten. diese sollten dafür sorgen, dass wir einen rücklauf auch über die homepage generieren, damit wir weiter kommen. organischer Trafic wäre schön aber ich mache mir nicht sehr grosse hoffnungen. buchverkäufe wären gut und dann natürlich, wenn wir inhaltlich soweit sind, sollten wir einstieg für ein automatisiertes PMF tool werden können, dass wir gegen Geld anbieten werden. Dort hätten wir dass klarere Ziele, da müssen wir aber selbst noch durch den PMF prozess
+
 ## Ziele
 _Was soll die neue Homepage erreichen? (Business-Ziele, Nutzerziele)_
 
