@@ -115,3 +115,121 @@ Sprachumschaltung DE/EN bleibt als Navi-Element.
 Subscription-Namen (Signal / Rhythm / Edge) sind inhaltlich an das Buch "Human Signal" gekoppelt.
 
 **Wichtig für Design:** Pricing nicht verstecken. Anti-Agentur-Positionierung erfordert Pricing-Transparenz als Haltungs-Signal.
+
+---
+
+## 8. CTA-Hierarchie
+
+| Ebene | Aktion | Wo sichtbar |
+|---|---|---|
+| **Primär (niederschwellig)** | Interaktiver AI-Mini-Einstieg (2–5 Min) → qualitatives Ergebnis → CTA zur Diagnose | Hero, Final-CTA der Startseite |
+| Sekundär | "Diagnose buchen" (CHF 8–15k, direkt) | Pricing-Seite, How-we-work, Header |
+| Sekundär | Klassisches Kontakt-Formular *"Wo klemmt's?"* + mailto-Fallback | Contact-Seite, Footer |
+| Tertiär | *"Frag deinen LLM über uns"* — Prompt-Open mit Kontext-Pack-Link | PMF-Hub, "For agents"-Block (unaufdringlich) |
+| **Ausdrücklich NICHT** | Gehosteter Chatbot | — |
+
+**Ton der CTAs:** einladend, ehrlich, konkret. Nicht "Contact us", sondern *"Sag uns, wo die Entscheidung klemmt"* o. ä.
+
+---
+
+## 9. Visuelle Leitplanken
+
+- **Ausgangspunkt:** ruhige Advisory-Ästhetik der aktuellen `growthunltd.com` (weiche Gradients, grosse Typografie, viel Weissraum, schwarze CTA-Flächen als Anker) bleibt ein möglicher Bezugspunkt.
+- **Richtung:** kann offener sein — Claude Design darf explorieren, auch in Richtung Tool-/Plattform-Ästhetik (tech-näher, datenorientierter, konsolen-artig).
+- **Typografie:** grosse Schriften sind gewünscht.
+- **Was NICHT:** Agentur-Look, AI-generierter Look (z. B. Midjourney-Hero-Illustrationen), Marketing-Landingpage-Vibe, SaaS-Standard-Template.
+- **Farben / Logo:** werden direkt bei Claude Design als Style-Guide-Files hochgeladen (liegen nicht in diesem Repo).
+- **Mobile:** voll verwendbar, insb. der Agent-Block (siehe unten) wird mobil auf ein Icon mit Popover reduziert.
+
+---
+
+## 10. Zwei Varianten, die bewusst gegeneinander getestet werden sollen
+
+### Variante A — Split-Landing (Entry-Gate)
+
+- Volles Viewport-Split: **links "Ich bin ein Mensch"** (visuell warm, grosse Typo, einladend), **rechts stilisiertes API-/Agent-Modul** (technisch, konsolen-artig, evtl. echte `curl`-Beispiele / Code-Snippets).
+- Klick links → menschlicher Content-Pfad.
+- Klick rechts → zeigt die strukturellen Bot-Endpunkte (`/llms.txt`, `/context.md`, Markdown-Mirror-Links).
+- Marc will diese Variante ernsthaft getestet sehen.
+
+### Variante B — Embedded Agent-Block (kein Entry-Gate)
+
+- Mensch-zentriertes Hero dominiert (wie heute, aber geschärft).
+- **Unter oder neben dem Hero ein bewusst markierter "For agents / developers"-Block** mit echten Links (`/llms.txt`, `context.md`, Markdown-Mirror). Klein, nicht dominant — aber visuell als klares Statement sichtbar.
+- Mobile: Reduktion auf **ein Icon mit Popover**.
+- Entsprach Claudes ursprünglicher Empfehlung.
+
+Claude Design soll **beide Varianten zeigen**, damit wir die Wirkung nebeneinander beurteilen.
+
+---
+
+## 11. LLM-Friendliness (Designrelevante Signale)
+
+Diese Elemente müssen in der visuellen Umsetzung **sichtbar und benutzbar** sein:
+
+- Sichtbarer Agent-Block (Variante A oder B, siehe oben)
+- Footer-Link zu `/llms.txt` und `/context.md` (für neugierige Developer / Agents)
+- Pricing-Seite: strukturierte Tabelle, nicht Fliesstext (auch LLM-lesbar)
+- Case-Snippets: klare semantische Struktur (H2 Context, H3 Focus, H3 Outcome, Blockquote Quote)
+- Keine JS-only-Rendering-Entscheidungen im Hero-Content (Content muss im HTML stehen)
+- Boris + Marc: je ein sauberer Person-Block mit strukturierten Daten
+
+---
+
+## 12. Anti-Patterns (was die Seite explizit NICHT sein darf)
+
+- Keine Hero-Illustration mit generischem AI-Imagery (Gehirn + Schaltkreise, Roboter-Hand, etc.)
+- Keine "AI-Transformation für Ihr Unternehmen"-Rhetorik
+- Kein Chatbot-Widget unten rechts
+- Keine Cookie-Wall, die den Inhalt vor dem ersten Scroll verdeckt
+- Kein Pop-up-Newsletter-Gate auf der Startseite
+- Keine "Über uns / Team"-Galerie-Screens mit grossen Personen-Fotos vor dem Scroll-Fold
+- Keine Service-Kataloge / Icon-Grids mit 9 "Leistungen"
+- Keine generischen Stock-Fotos
+- Kein Gradient-Overkill, kein "AI-Glow"
+- Kein Dark-Mode-als-Hauptstil, wenn es keine Tool-Funktion rechtfertigt
+
+---
+
+## 13. Technischer Ziel-Stack (beeinflusst Design-Komplexität)
+
+- **Kein CMS.** Hardcoded, Markdown-basiert, Git-versioniert.
+- **Hosting:** Railway.
+- **Stack-Kandidaten:** Astro (empfohlen wegen Static-First + Islands für Interaktivität) oder Next.js mit Static-Export, beides mit Tailwind.
+- Design sollte mit realistischen Komponenten arbeiten, die in diesem Stack leicht implementierbar sind — keine Figma-Fantasien, die 3 Wochen Frontend-Arbeit kosten.
+- Content-Cadence nach Launch: alle 2 Wochen ein neues Element (Boris-Buch-Kapitel alternierend mit Projekt-Erfahrung).
+
+---
+
+## 14. Erfolgskriterien (was die Seite können muss)
+
+1. Ein Owner-CEO aus dem warmen Netzwerk (≤2 Min auf der Seite) versteht:
+   - Was GU macht (PMF-Verteidigung in der AI-Ära)
+   - Für wen (*für mich*, nicht "für alle")
+   - Was der erste Schritt ist (Mini-Einstieg → Diagnose)
+   - Was es kostet (Pricing transparent)
+2. Die Seite filtert: Wer nicht ICP ist, verlässt sie früh und freiwillig — niemand muss abgewiesen werden.
+3. Die Seite lädt schnell, ist LLM-lesbar, responsive, barrierefrei auf Basis-Niveau.
+4. Sie wirkt **persönlich** (Duo Boris + Marc ist spürbar), ohne personenzentriert zu sein (keine Gesichter vor dem Fold).
+5. Sie passt zu Boris' Buch "Human Signal" — sichtbar verwandt, aber eigenständig.
+
+---
+
+## 15. Deliverable von Claude Design
+
+- **Hi-Fi-Mockups** der Homepage in beiden Landing-Varianten (A + B)
+- **Mockups** der Sekundär-Seiten: How we work, PMF-Hub (Startseite des Hubs), Cases-Übersicht, Who we are, Contact/Pricing
+- **Interaktiver Prototyp** des AI-Mini-Einstiegs auf dem Hero (auch wenn inhaltlich Platzhalter)
+- **Responsive-Mockups** für mobile Hero (insb. Agent-Block als Icon mit Popover)
+- **Handoff-Bundle für Claude Code** — damit der Code-Schritt nahtlos anknüpfen kann.
+
+---
+
+## 16. Beizubringende Dateien (direkt bei Claude Design hochladen)
+
+- **Dieses File** (`design-brief.md`)
+- **Style Guide** (Farb-Files, Logo-SVG) — vom Host-Team
+- **1–2 Screenshots** der aktuellen `growthunltd.com` als visueller Ausgangspunkt
+- Optional: das Destillat aus Boris' Analyse der bestehenden Seite (als Referenz-Kontext — nur wenn Claude Design nach mehr Kontext fragt)
+
+**Nicht beizubringen:** `tvpittner.md`, `boris.md`, `claudebrain.md`, `consolidated.md`. Das sind Strategie-Prozess-Artefakte und verrauschen den Design-Kontext.
