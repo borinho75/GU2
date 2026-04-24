@@ -1,44 +1,252 @@
-# Homepage-Brainstorming — Boris
+# Brainstorming — Growth Unltd. Relaunch 2026 (Boris)
 
-> Persönlicher Input für die neue Homepage. Einfach frei reinschreiben, grobe Notizen sind völlig okay.
-> Die Inhalte werden später in `consolidated.md` mit den anderen Eingaben zusammengeführt.
+Dieses Dokument ist Boris' individueller Denkraum. Marc füllt parallel sein eigenes. Später Abstimmung → `consolidated.md`.
 
-## Ziele
-_Was soll die neue Homepage erreichen? (Business-Ziele, Nutzerziele)_
+---
 
--
+## Kontext aus der ersten Session (Claude's Diagnose)
 
-## Zielgruppe
-_Für wen bauen wir das? Primäre und sekundäre Personas._
+### Was die aktuelle Website gut macht
+- Saubere visuelle Grundstruktur, klare Hierarchie, professioneller Look
+- Partner-/Awards-Sektion (Innosuisse, Peakora, IMD, Stanford, Digital Shaper) baut schnell Glaubwürdigkeit auf
+- Klare Segmentierung "Who we work with: SMEs / Startups / Scaleups"
+- Kernversprechen "Leadership sparring partner for executives" hat Potenzial
 
--
+### Wo die Seite für den Relaunch nicht mehr passt
+1. **AI-Welt kommt nicht vor.** Kein Wort zu AI. In 2026 signalisiert das Beratung ohne Haltung zum relevantesten Transformations-Hebel der Kunden.
+2. **Alles ist bespoke — keine Produkte.** "Sparring partner" ist inhärent unskalierbar. Für Subscription braucht es gedankliche Produkte (z. B. monatliche AI-Readiness-Diagnostik, PMF-Review-Ritual, Slack-Access + Artefakte, Cohort).
+3. **Zu breite Zielgruppe.** SMEs + Startups + Scaleups = alle. Für AI-Positionierung *und* Subscription braucht es einen ICP-Fokus.
+4. **Generische Sprache.** "Clarity, focus, alignment, decisions" — sagt jede Boutique-Beratung. Keine Meinung, keine Kante, keine Proof-Points mit Zahlen.
+5. **Boris' Personal Brand im Keller.** Buch "Human Signal", Unicorn, Stanford — nur unter Awards sichtbar. Stärkste Waffe, nicht gehebelt.
+6. **Marc unterrepräsentiert.** "Currently at Swisscom, acts as sparring partner" — wirkt wie Nebentätigkeit. Wenn Co-Founder im Relaunch, muss anders erzählt werden.
 
-## Kernbotschaften
-_Die 3–5 wichtigsten Dinge, die ein Besucher in 10 Sekunden mitnehmen soll._
+---
 
--
+## Die 4 strategischen Kernfragen
 
-## Sektionen / Aufbau
-_Welche Bereiche sollen vorkommen, in welcher Reihenfolge?_
+### 1. Die AI-These
 
--
+Was ist Growth Unltd.s *Meinung* zu AI in Organisationen? Drei mögliche Haltungen (nicht exklusiv, aber Priorisierung nötig):
 
-## Visuals & Tonalität
-_Stil, Farbrichtung, Bildsprache, Tonfall (seriös / verspielt / technisch …)._
+- **AI-native Operating Model** — Leadership-Teams helfen, ihre Org von Grund auf AI-nativ zu denken (Struktur, Prozesse, Rollen)
+- **AI-augmented Leadership** — Führungsteams selbst schneller/besser mit AI (Claude nutzen wir dabei auch im Delivery)
+- **AI-Economy Positioning** — PMF und Wachstum im Kontext neuer AI-Märkte und -Konkurrenten
 
--
+**Boris' Gedanken:**
 
-## Calls to Action
-_Primärer CTA, sekundäre CTAs, wo sie auftauchen._
+> **Positionierung (1-Liner):** **PMF-Experte mit starken AI-Skills.**
+>
+> **Domäne:** Innovation — speziell Product-Market-Fit und die Organisation, die schneller innovieren kann. Nicht nur "neue Produkte launchen", sondern die *Fähigkeit zu innovieren* selbst.
+>
+> **AI-These:** AI ist nicht ein Use Case, den man einsetzt. AI ist das **Operating System der innovationsfähigen Organisation**. Ohne AI-natives OS innoviert heute niemand schnell genug. Wer fragt "wo setzen wir KI ein?" hat den Frame schon verloren.
+>
+> **Auslöser-Szene:** Martin (CEO Kemaro, Industrie-Reinigungsroboter, chinesische Konkurrenz iteriert schneller): *"Wir wollen KI einsetzen, wissen aber noch nicht wie."* → Paralysierte Standardhaltung, die wir brechen müssen.
+>
+> **Priorisierung:** **Organisation zuerst** (AI-native OS). Produkt-AI folgt als Nebeneffekt — eine AI-native Organisation innoviert automatisch schneller, weil Engineering, Marketing, Support, Hiring im Agenten-Takt laufen. Produkt-Velocity ist Output des OS.
+>
+> **Zeitfenster:** 30 / 60 / 90 Tage. Ab Tag 90 läuft es.
+>
+> **Kante / Unique Take:**
+> *"Wir machen keine Präsentation, wir implementieren. Wir gehen rein, machen uns schmutzig. Und wir sagen ihnen, dass sie in 2 Jahren einpacken können, wenn sie so weitermachen."*
+> → Anti-McKinsey (keine Slides). Anti-AI-Agentur (keine isolierten Pilotprojekte). Schonungslose Diagnose inklusive.
+>
+> **Credibility-Anker:** Boris schreibt das Buch **"Human Signal — PMF in Zeiten von AI"**. Das Buch *ist* die Positionierung in Buchform. Hebelt 20 Jahre Track Record + Unicorn + Stanford + Innosuisse.
+>
+> **Was wir NICHT sind:** Keine AI-Economy-Strategen (Markt-Neudefinition = nicht unser Spiel). Keine Prompt-Engineering-Schule. Keine Tool-Auswahl-Beratung. Keine Slide-Fabrik.
 
--
+**Strategischer Rahmen (aus Interview):**
+- **Horizont:** 24 Monate maximaler Cashflow. Kein 10-Jahres-Brand-Build. Website optimiert auf Konversion *jetzt*.
+- **Konsequenz:** Subscription muss sofort verkaufbar sein. ICP muss schnell entscheiden und zahlen. "Einpacken"-Stil passt — filtert genau die Schnell-Entscheider raus.
 
-## Inspirationen / Referenzen
-_Links zu Homepages, die dir gefallen, und warum._
+**Offene Stress-Tests für später:**
+- Hält "Tag 90 läuft es" bei Firmen >200 MA, oder nur bei Scaleups unter 80?
+- "In 2 Jahren einpacken" — auf Website (Filter) oder erst im Sales-Gespräch (Schock)?
 
--
+---
 
-## Offene Fragen
-_Punkte, bei denen du unsicher bist oder die diskutiert werden sollen._
+### 2. Die ICP (Ideal Customer Profile)
 
--
+Wenn ihr morgen 10 perfekte Kunden wünschen könntet — wer sind die? Optionen:
+
+- Schweizer Scaleup-Gründer (Series A/B)
+- CEOs von SMEs mit 50–500 Mitarbeitenden
+- KMU-Inhaber mit Nachfolge-/Transformationsthema
+- Corporate Innovation Leads
+- Andere: _____________
+
+Fokus-Prinzip: **Eine primäre ICP wählen** — öffnen kann man später.
+
+**Boris' Gedanken:**
+
+> **ICP (gelockt):** Owner-/Founder-CEO einer **30–300-MA-Firma** mit **existierendem Produkt**, unter **Innovations-Geschwindigkeits-Druck** (oft AI-getrieben), der **in Wochen entscheidet** (nicht Monaten).
+>
+> **Industrie-agnostisch.** Vereint durch Entscheider-Profil + Pain, nicht durch Branche. Pipeline-Beweis: Accounting (BDO), Sporttech (INSCYD), Food (Aeschbach) — drei komplett verschiedene Industrien, gleiches Entscheider-Profil.
+>
+> **Filter-Kriterien:**
+> - ✅ Owner/Founder-CEO mit Budget-Autorität
+> - ✅ 30–300 Mitarbeitende
+> - ✅ Existierendes Produkt (PMF vorhanden, unter Druck)
+> - ✅ Innovations-Geschwindigkeits-Pain (AI-Disruption oder interne Velocity-Krise)
+> - ✅ Entscheidet in Wochen, nicht in Monaten
+>
+> **Ausschluss:**
+> - ❌ Pre-PMF Startups (kein Cash, nichts zu schützen)
+> - ❌ Stabile KMU ohne Disruptionsdruck (kein Urgency)
+> - ❌ Corporate Innovation Leads (keine Entscheidungs-Autorität)
+> - ❌ Grosskonzerne >500 MA (Board-Politik, Sales-Zyklen zu lang)
+>
+> **Konkrete Pipeline-Beispiele (Stand Interview):**
+> - BDO Innerschweiz (Accounting, 200 MA) — in Gesprächen
+> - INSCYD (Sporttech, 30 MA) — in Gesprächen
+> - Aeschbach Chocolatier (Food, 50 MA) — in Gesprächen
+> - EBP (Engineering, 2000 MA) — **Bestandskunde, NICHT Teil der neuen ICP-Akquise.** Cash-Quelle, aber Website wird nicht für EBP-Typen gebaut.
+>
+> **Pipeline-Potenzial aus Netzwerk:** 100–200 erreichbare Kontakte in 8 Wochen (LinkedIn/Alumni/Innosuisse/Stanford). → Website muss primär **warmen Traffic konvertieren** (Leute, die Boris googeln, nachdem sie angesprochen wurden), nicht Cold-SEO gewinnen.
+
+**Konsequenz für Website-Relaunch:**
+- Sprache adressiert *eine Person* (Owner-CEO), nicht drei Segmente.
+- Case Studies kommen quer durch Industrien, verbunden durch Profil.
+- Primärer CTA: 30-Minuten-Diagnose-Call (Friction niedrig, Entscheider kann sofort).
+- SEO kein Primärziel — LinkedIn + persönliches Netzwerk + Buch-Launch = Traffic-Quellen.
+
+**Klärung: Buch + Innosuisse + ICP-Kompatibilität**
+
+> **PMF im ICP-Kontext:** Im neuen ICP heißt die Arbeit nicht "PMF finden" (Startup-Vokabel), sondern **"PMF verteidigen"** oder **"nächsten PMF bauen, bevor der jetzige stirbt"**. Gleiche Disziplin, anderes Vokabular. Alle ICP-Firmen (BDO, INSCYD, Aeschbach, Kemaro) haben PMF — und stehen vor dem Verlust davon durch AI-Disruption.
+>
+> **Buch als Autoritäts-Anker (nicht Zielgruppen-Treffer):** "Human Signal — PMF in Zeiten von AI" positioniert Boris als *den* PMF-Experten der AI-Ära. Der Owner-CEO muss das Buch nicht lesen — er muss wissen, dass Boris es geschrieben hat. Klassisches Berater-Buch-Playbook (Christensen, Moore): Leser-Zielgruppe ≠ Käufer-Zielgruppe.
+>
+> **Innosuisse als R&D + Credential, nicht Service-Linie:** Auf der Website taucht Innosuisse als **Credential** auf (*"Expert Coach — sieht 30+ Gründer/Jahr"*), nicht als Angebot. Wird zum **Seismographen** für ICP-Autorität: *"Ich sehe die Disruption ein Jahr früher — weil ich sie bei den Startups coache, die sie bauen."* Startup-Arbeit = Beweis für Relevanz beim Owner-CEO, kein Widerspruch.
+
+**Offene Buch-Editorial-Frage (parken):** Soll "Human Signal" ein explizites Kapitel / Framing für Scaleup + Owner-CEO-Leser haben ("PMF verteidigen, nicht finden")? Oder bleibt's Gründer-fokussiert und die Website übersetzt? → Wichtig vor Druck, nicht für Website-Relaunch.
+
+---
+
+### 3. Das Subscription-Produkt
+
+Was wäre der wiederkehrende Wert, für den Kunden monatlich zahlen?
+
+- Monatlicher Sparring-Call + Async-Zugang (Slack/WhatsApp)
+- Geteiltes "Growth Dashboard" mit AI-Diagnostik (automatische Reports)
+- Cohort-Format mit 6–8 Gründern (monatlich, moderiert)
+- Retainer mit festem Stundenkontingent + Reaktionszeit-SLA
+- Content-Subscription (Playbooks, Templates, Tools — Boris' IP skaliert)
+
+**Boris' Gedanken:**
+
+> **Produkt-Architektur (3-Stufen-Funnel):**
+>
+> **1. Einstieg — "AI-Readiness Diagnose"** (einmalig, kein Abo)
+> - 3–4 Wochen, CHF 8–15k pauschal
+> - Lieferung: schriftlicher Diagnosebericht (20–30 Seiten) + 90-Min Debrief
+> - Zweck: Schonungslose Bestandsaufnahme + natürlicher Funnel zur Transformation (Ziel-Conversion ~30–40%)
+> - Wer nicht konvertiert → bleibt in Newsletter/Liste
+>
+> **2. Kern — "90-Day Transformation"** (einmalig, Hauptprodukt)
+> - 30 / 60 / 90 Tage. "Wir gehen rein, machen uns schmutzig, bauen das AI-native OS."
+> - Scope-basiert gepreist:
+>   - Teilprojekt (einzelne Funktion): CHF 30–60k
+>   - Full OS, kleinere Firma (30–100 MA): CHF 60–120k
+>   - Full OS, mittlere Firma (100–300 MA): CHF 120–220k
+> - Während der Transformation wird **Instrumentierung** eingebaut → Grundlage für Subscription-Lock-in
+>
+> **3. Subscription — Monatlich, nach Transformation**
+> Tiers sind **Intensität** (nicht Firmengröße):
+>
+> | Tier | Preis/Monat | Was drin |
+> |---|---|---|
+> | **Signal** | CHF 2'500 | Monats-Reporting + Handlungsempfehlungen, 1 Call/Monat |
+> | **Rhythm** | CHF 5'000 | Bi-weekly Check-ins, OS-Updates, quartalsweise OKR-Review |
+> | **Edge** | CHF 10'000 | Weekly Check-ins, Reaction-SLA <24h, Leadership-Sparring inkl. |
+>
+> **Namensgebung verbindet zum Buch "Human Signal":** Signal → Rhythm → Edge als wachsende Tiefe.
+>
+> **Lock-in (zwei Ebenen):**
+> 1. **Proprietäre Daten + Interpretation:** Instrumentierung läuft nach Transformation weiter — aber nur Boris interpretiert sie mit Kunden-Kontext und übersetzt in Stack/OS-Anpassungen. Kerndifferenzierung: **"Was ist Signal, was ist Noise?"** — spiegelt Buch-Positionierung.
+> 2. **Akkumulierte Needs-Kenntnis:** Je länger das Mandat, desto tiefer das Verständnis der spezifischen Firma → Wechsel-Kosten für Kunden steigen.
+>
+> **Gate-Policy:** **Subscription nur nach Transformation.** Keine Light-Subscription ohne vorheriges Mandat — würde Lock-in auflösen und "wir implementieren"-Positionierung verwässern.
+>
+> **Revenue-Modell (24-Monats-Horizont):**
+> - Ziel: Parallel 10 aktive Subscriptions × Ø CHF 5k/Monat = CHF 50k/Monat recurring = CHF 600k/Jahr
+> - Plus: 4–6 Transformationen/Jahr × Ø CHF 100k = CHF 400–600k einmalig
+> - Plus: 8–12 Diagnosen/Jahr × CHF 10k = CHF 80–120k (Funnel + Filter)
+
+**Website-Implikation:**
+- Primärer CTA: **"AI-Readiness Diagnose buchen"** (nicht "Discovery Call") — bezahlter erster Schritt filtert Ernsthaftigkeit
+- Pricing-Seite zeigt die 3 Subscription-Tiers + Transformation-Preisrahmen (nicht versteckt)
+- Light-Subscription explizit *nicht* auf Website
+- Content-Subscription (Buch-Liste) läuft **separat** außerhalb GU-Marke — über Boris' Personal Brand
+
+**Nicht auf Website, aber verfügbar auf Anfrage:**
+- Micro-Transformation (30 Tage, einzelnes Team, CHF 20–30k) → für Kunden, die skeptisch sind vor 90-Tage-Commitment
+
+---
+
+### 4. Marc's Rolle
+
+Ist Marc gleichberechtigter Co-Founder, strategischer Partner oder Advisor?
+
+**Boris' Sicht:**
+
+> **Positionierung: Duo (Option A).** Marc ist gleichberechtigter Co-Founder. Website erzählt "Wir" — nicht "Boris + Partner". Rechtfertigt die 50/50-Story und ist ehrlicher gegenüber Kunden, die beide kennen.
+>
+> **Zeit-Allokation Marc:**
+> - **Tag 1 (Relaunch):** 30%
+> - **Monat 6:** 100%
+> - Linear hochgefahren (Swisscom-Exit parallel zur Ramp).
+>
+> **Revenue-Split:** 50/50.
+>
+> **Differenzierung Boris ↔ Marc:**
+>
+> | Boris liefert | Marc liefert |
+> |---|---|
+> | PMF-Diagnose, Strategie, Org-Design | AI-Architektur, Stack-Entscheidungen, Instrumentierung |
+> | Client-facing Leadership, Sales, Buch, Thought Leadership | Deep-Tech-Evaluation, Tool-Bewertung, technische Umsetzung |
+> | Projekt-Management, Disziplin, Timing | R&D, "was kann Claude 4.8 morgen besser als heute?" |
+>
+> **Persönlichkeits-Ergänzung:**
+> - Marc: Tech-Tiefe, verbeisst sich in neue Technologien; schwächer bei Organisation/Disziplin/Timelines
+> - Boris: Disziplin, Kommunikation, Unternehmer-Erfahrung im Aufbau
+>
+> **Positionierungs-Rewrite (ersetzt Q1-Positionierung "Boris = PMF-Experte mit AI-Skills"):**
+>
+> > **"Wir sind das Duo, das PMF in der AI-Ära diagnostiziert UND das AI-native Operating System baut. Boris bringt PMF + Strategie + Org. Marc bringt AI-Architektur + Tech-Tiefe. Die einzige Schweizer Adresse, die beides kann."**
+
+**Ramp-Modell (entschieden):**
+
+> **Die Ramp ist demand-getrieben, nicht kalendergetrieben.** Marc kann **ab Mitte Mai 2026 auf 100% gehen**, sobald das Auftragsvolumen seine Vollzeit-Kosten deckt. Trigger-Bedingung (zu definieren mit Marc): z.B. *"2 unterschriebene Transformations-Mandate + 1 Diagnose-Signing → Marc kündigt Swisscom und geht 100%."*
+>
+> **Konsequenz für Strategie:**
+> - Das eigentliche Risiko ist nicht Kapazität, sondern **Conversion-Speed in den ersten 4–6 Wochen nach Relaunch**. Jeder Abschluss zieht Marc schneller voll ins Boot.
+> - **Sales-Throttle wäre falsch** — genau das Gegenteil: maximaler Sales-Push auf die 100–200 warmen Kontakte in Wochen 1–4.
+> - Wenn Marc Mitte Mai auf 100% geht, reduziert sich die Capacity-Unterdeckung auf ~4–5 Wochen (nicht 6 Monate). Jahreskapazität ~3000h — nahe am Bedarf von 3500–4200h.
+>
+> **Gewählte Lösungs-Kombi:**
+> - **Primär: (b) Demand-getriggerte Ramp** mit definierter Schwelle (2 Mandate + 1 Diagnose), maximalem Sales-Push in Wochen 1–4
+> - **Backup: (c) Contractor als Peak-Puffer** für mögliche Überlast-Wochen in Monat 5–6
+> - **Optional: GU-Vorfinanzierung** 1–2 Monate Marc-Salary, falls man Commitment vorziehen will — aber nur wenn Boris das Cash-Risiko mental trägt
+>
+> **Verworfen:**
+> - (a) Sales-Throttle — killt Cash genau im kritischen Momentum-Fenster
+> - (d) Launch-Verschiebung — verliert 3–6 Monate im 24-Monats-Horizont
+
+---
+
+## Offene Themen / Parking Lot
+
+- **ICP-Realität vs. Website-Versprechen:** Boris arbeitet faktisch nur mit Startups/Scaleups, Marc kommt aus KMU/Corporate. Die heutige Seite ("SMEs / Startups / Scaleups") verkauft eine Zielgruppe, die Boris nie bedient → wird in Frage 2 hart geprüft.
+- **Implizite AI-These-Priorisierung:** Boris priorisiert Template-Haltung 1+2 (AI-native OS + AI-augmented Organisation), lässt Haltung 3 (AI-Economy / Markt-Neudefinition) raus — in finaler Abstimmung mit Marc prüfen.
+- **Stress-Test 90-Tage-Claim:** Belastbar für Firmen bis ~80 MA? Darüber?
+- **Transparenz der "Einpacken"-Diagnose:** Website-Headline-Ebene oder erst im Gespräch?
+- **Pricing-Review:** Boris hat sich in Scaleup-Kontexten tendenziell unter Wert verkauft (Soeder CHF 200/h) im Vergleich zu KMU-Kontexten (Orbis/IMD CHF 350/h). Teil des Relaunchs: Preise und Paketierung strategisch neu setzen, passend zu Subscription-Modell.
+- **Buchveröffentlichung "Human Signal — PMF in Zeiten von AI":** Timing-Koordination mit Website-Relaunch? Launch-Strategie? Lead-Magnet-Kapitel auf Seite?
+- **Marc-Disziplin + Operations:** Marc bringt Tech-Tiefe, ist aber schwach bei Disziplin/Timelines. Bei 90-Tage-Delivery brechen ohne Struktur die Mandate. Braucht es eine 3. Person (Delivery Ops / Project Lead), oder kann Boris die Disziplin dauerhaft für beide mitbringen, ohne selbst zum Bottleneck zu werden?
+- **Marc-Ramp 30%→100%:** Warum 6 Monate? Swisscom-Kündigungsfrist (fix) oder finanzielle Abhängigkeit (verhandelbar)? Davon hängt ab, ob man die Ramp verkürzen kann (via GU-Vorauszahlung, früherer Exit) oder ob sie strukturell fest ist.
+- **Positionierungs-Rewrite-Abstimmung mit Marc:** Duo-Story braucht Marcs Commitment zur Formulierung — seine eigene brainstorming-Datei muss das abdecken.
+
+---
+
+## Inspiration / Benchmarks
+
+- _(entsteht im Interview)_
