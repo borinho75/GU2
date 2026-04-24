@@ -6,11 +6,16 @@
 ## Meta / Arbeitsweise
 - Analyse der bestehenden Seite (https://growthunltd.com/) übernimmt Boris mit seiner Claude-Instanz — hier nicht duplizieren.
 - Dieses File wird iterativ befüllt: zuerst Rohnotizen als Freitext-Dump, danach Einsortierung in die Struktur-Sektionen.
+- Firmenbezeichnung künftig "GU" (Kurzform für Growth Unlimited / GU2).
+- Referenz für tvpittners Fähigkeiten: https://cv.pittner.ch
+- Arbeitsmodus ab hier: Interview, eine Frage pro Runde.
 
 ## Rohnotizen (Freitext-Dump)
 _Ungefilterte Gedanken, wie sie kommen. Werden später in die unteren Sektionen einsortiert._
 
--
+- **F1 — Anlass:** Was ist für dich der Auslöser, gerade jetzt eine neue Homepage zu machen? Was passt an der aktuellen Situation nicht mehr?
+  - ich werde viel mehr aktiv werden in unserer firma und möchte deshalb mehr einfluss auf den inhalt der seite nehmen. auch meine expertise ist dabei wichtig, damit meine fähigkeiten dort wo sie strategisch zu GU (ich nenne die firma jeweils so in der zukunft) passen. Meine Fähigkeiten findest du übrigens unter cv.pittner.ch.
+  - darüber hinaus wollen wir unseren potentiellen kunden klar vermitteln, was wir gut können und was nicht.
 
 ## Ziele
 _Was soll die neue Homepage erreichen? (Business-Ziele, Nutzerziele)_
