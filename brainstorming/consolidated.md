@@ -116,6 +116,25 @@ Punkte, in denen Marc und Boris bereits übereinstimmen:
 - Boris' Funnel ist sehr konkret und intern konsistent — schwer zu zerlegen
 - Unklar: Wo sitzt Marcs "Tools/Apps/Plattformen mit Kunden bauen" im Funnel? Teil der Transformation? Eigenes Produkt?
 
+### 3a — Produkt-Modell ✅ ENTSCHIEDEN
+
+**Entscheidung:** **Boris' 3-Stufen-Funnel bleibt Grundarchitektur** (Diagnose → Transformation → Subscription/Retainer), Pricing-Rahmen wie vorgeschlagen. **Marcs Ergänzung:** Einmalige Projekte ("as is") bleiben möglich, werden aber **bewusst hoch gepreist**, weil Coaching-Komponente inkludiert ist.
+
+Automatisiertes PMF-Tool (Marc) ist durch SF1 (Multi-Domain) bereits verortet: **nicht auf growthunltd.com**, sondern auf separater Domain.
+
+### 3b — Tools / Apps / Plattformen ✅ ENTSCHIEDEN
+
+**Entscheidung:** Marcs "Tools/Apps/Plattformen mit Kunden bauen" sitzen **innerhalb der Transformation bzw. der Einmalprojekte** — sie sind Teil der Implementierung, nicht ein eigenes Produkt auf der Seite. Laufen nach Abschluss in Retainer/Subscription über (Wartung, Weiterentwicklung, Signal-Interpretation).
+
+**Begründung (3a + 3b):**
+- Boris: "Ich bin da relativ strikt. Für Projektarbeiten würden wir mehr auf strategische Partnerschaften setzen und damit versuchen, den Kunden für wenig Einstiegshürde einen Monatsretainer auszuarbeiten."
+- Marc: "Ich bin dafür, gewisse Projekte as is einmalig zu erarbeiten, diese aber ebenfalls als Teil der Expertise relativ teuer zu machen, weil wir auch dort ein Coaching machen. Sonst ist das Subscription- und Retainer-Modell stimmig."
+- Beide wollen Retainer/Subscription als Kern. Boris strenger ("alles in Retainer umwandeln"), Marc offener ("Einmal-Projekte OK, aber teuer"). Kompromiss: Einmal-Projekte als Ausnahme, nicht als Regel, mit Coaching-Prämie.
+
+### 3c — Pricing-Transparenz ⬜ OFFEN
+
+_(noch zu entscheiden — kurze Nachfrage)_
+
 **Entscheidung:** _(zu füllen)_
 
 **Begründung:** _(zu füllen)_
