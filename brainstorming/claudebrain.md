@@ -236,3 +236,88 @@ Marcs Idee war: links "Ich bin ein Mensch" (hübsch, einladend), rechts stilisie
 So bleibt der "Wir verstehen beide Welten"-Claim, ohne das Hero-Versprechen zu teilen.
 
 ---
+
+## 9. Risiken und Spannungsfelder
+
+Dinge, die beim Konsolidieren bewusst adressiert werden müssen:
+
+### 9.1 Das Marc-Boris-Framing
+
+Heute ist die Seite klar "Boris + Marc als Advisor". Marc will strategisch gleichwertig wahrgenommen werden, aber nicht Personen-zentrisch. Das ist ein schmaler Grat. Vorschlag: im "Who we are" zwei gleichwertige Profile mit **komplementärem Schwerpunkt** (Boris: PMF, Sparring, Leadership; Marc: Digital, AI-nativ, Technologie-Handwerk). Keine Hierarchie, aber klare Arbeitsteilung. Die heutige Sub-Formulierung "currently at Swisscom, advisor to Boris" muss weg, sobald Marc voll einsteigt.
+
+### 9.2 Die AI-Positionierung
+
+Die heutige Seite führt *"No AI for the sake of AI"* als Anti-Pattern — das ist gut und passt zur Seniorität. Marc will AI gleichzeitig prominenter zeigen. Die Auflösung: **AI-natives Handwerk sichtbar, AI als Verkaufsargument unsichtbar**. Also: LLM-Friendliness des Site-Handwerks zeigen, Claude/OpenAI als euer Arbeitswerkzeug benennen, aber keine "KI-Transformation für Ihr Unternehmen"-Versprechen. Der Unterschied ist subtil, aber entscheidend.
+
+### 9.3 PMF als Hauptmarke vs. Methoden-Pluralismus
+
+Wenn GU "die Adresse für PMF" wird, gibt es Kollateralschaden: OKR-Projekte könnten weniger naheliegend wirken. Lösung: OKR und Innovation-Frameworks klar als *Werkzeuge innerhalb des PMF-Denkens* framen, nicht als parallele Disziplinen. Das entspricht auch dem realen Zusammenhang — OKR *ist* ein Werkzeug für Fokus nach PMF-Validierung.
+
+### 9.4 Das automatisierte PMF-Tool
+
+Marc hat es in F6 und F19 genannt. Ohne das Tool ist die Seite nur Sparring-Advisory mit Content-Hub. Mit dem Tool wird daraus ein skalierbares Angebot. **Frage an euch:** Ist das Tool in 6 Monaten auf der Seite präsent, oder ist es eine 18-Monats-Roadmap-Frage? Das beeinflusst die Homepage-Architektur stark (eigener Navigations-Slot "Tools" / "Try it" oder nur Teaser).
+
+### 9.5 Das Buch-Timing
+
+Wenn Boris' Buch auf der Seite eine zentrale Rolle spielt, ist das Erscheinungsdatum ein Site-Launch-Kriterium. Entweder synchron veröffentlichen (Marketing-Push), oder vorher mit Teaser/Vorbestellung launchen, oder nachrüsten.
+
+### 9.6 Content-Pflege
+
+Ein Content-Hub (PMF-Artikel, Cases, Buch-Auszüge) braucht Redaktion. Wer schreibt, wer pflegt, in welchem Rhythmus? Wenn das nicht geklärt ist, wird der Hub nach 6 Monaten tot und schadet mehr als er nutzt. **Empfehlung:** Minimum-viable starten (3–5 Artikel zum Launch), dann 1–2 pro Monat als Commitment.
+
+### 9.7 Persönliche Reputation vs. Skalierung
+
+Boris' Analyse hat es selbst benannt: die heutige Seite ist personenabhängig. Wenn GU wachsen soll (Tool, Retainer, passives Einkommen), muss das Vertrauen irgendwann vom Namen Boris/Marc entkoppelbar sein — über Methodik, Frameworks, Community, Plattform. Diese Entkopplung ist kein Homepage-Problem allein, aber die Seite kann den Weg anbahnen (z. B. PMF-Framework mit eigenem Namen, Buch-Autorität, Tool-Brand).
+
+---
+
+## 10. Offene Fragen an euch (bitte beantworten beim Konsolidieren)
+
+1. **Primärsprache der neuen Seite?** DE-first, EN-first oder echt zweisprachig?
+2. **Launch-Timing?** Ist das Buch-Datum der Anker, oder unabhängig?
+3. **Automatisiertes PMF-Tool auf der Launch-Seite — ja oder nein?** Wenn ja, in welchem Reifegrad (Teaser, Beta-Zugang, vollständig)?
+4. **Budget/Tech-Stack?** Eigener Stack (Next.js + Markdown + Static Hosting wäre mein Default für dieses Profil) oder CMS-basiert? WordPress ist laut Marc raus — was ist drin?
+5. **Content-Ownership?** Wer schreibt die PMF-Hub-Artikel? Wer pflegt nach Launch?
+6. **Wie explizit wird Marc aufgewertet?** "Gleichberechtigter Co-Founder" / "Partner mit Schwerpunkt X" / "Technologie-Counterpart"?
+7. **Split-Landing ja oder nein?** Entry-Gate-Variante, eingebettete Variante oder ganz weg?
+8. **VC/Finance-Zielgruppe — wirklich auf der Seite sichtbar machen oder nur via direkte Kontakte?**
+9. **Darf die Seite in Richtung Tool/Plattform-Visual tendieren**, oder bleibt sie rein Advisory-Ästhetik wie heute?
+10. **Ist `growthunltd.com` die Ziel-URL, oder kommt ein Rebrand mit?** (In Marcs Input hiess die Firma durchgehend "GU" — das ist intern, aber eventuell auch in der neuen URL/Brand relevant.)
+
+---
+
+## 11. Meine Empfehlung als Entscheidungsmatrix für das Konsolidierungs-Gespräch
+
+Wenn ihr mit Boris' File, Marcs File und diesem File zusammenkommt, würde ich entlang dieser Prioritäten vorgehen:
+
+1. **Zuerst Zielgruppen-Fokus entscheiden** (Tabelle 2 oben). Alles andere folgt.
+2. **Dann Hauptbotschaft fixieren** (Unsicherheit → Sicherheit? Oder bestehendes Clarity/Focus-Framing beibehalten? Oder Hybrid?).
+3. **Dann die PMF-Frage klären** (Dach-Thema oder gleichrangig mit OKR / Innovation?).
+4. **Dann Content-Hub-Scope** (was muss zum Launch stehen, was kommt später?).
+5. **Dann erst** visuelle Entscheidungen (Split-Landing ja/nein, Farbwelt, Typo-Experimente).
+6. **Dann LLM-Friendliness** (das ist Handwerk, kommt nach der Content-Strategie).
+7. **Ganz am Ende** Tool- und Buch-Integration — weil abhängig von externen Timelines.
+
+Meine persönliche Wette auf die grössten Hebel (absteigend):
+
+1. Zielgruppen-Fokus auf KMU verschärfen → klarer Hero, klarere Cases
+2. PMF-Hub als eigenen Bereich etablieren → Themenführerschaft real, nicht nur beansprucht
+3. LLM-Friendliness als echtes Handwerk umsetzen → Differenzierung, die in 12 Monaten noch hält
+4. Anti-Patterns schärfen und KMU-spezifisch machen → Haltung zeigen
+5. Marc-Profil gleichwertig machen → organisatorische Realität
+
+Weniger wichtig, als es auf den ersten Blick wirkt:
+
+- Die Split-Landing
+- Der exakte Hero-Wortlaut
+- Die Farbwelt
+
+Diese Dinge sind in 3 Design-Iterationen lösbar, wenn die oberen Punkte stehen.
+
+---
+
+## 12. Schlussbemerkung
+
+Die grösste Stärke, die ihr von der heutigen Seite erbt, ist **Seniorität ohne Lautstärke**. Die grösste Chance der neuen Seite ist, **diese Seniorität auf die AI-Zeit zu übertragen**, ohne in den Chor der AI-Anbieter einzufallen. Wenn ihr den Leitsatz *"wir verstehen die AI-Welt handwerklich und bleiben trotzdem Mensch-Entscheidungs-Sparringpartner"* durchhaltet, werdet ihr in 2 Jahren eine seltene Position haben.
+
+Das Risiko ist nicht, zu wenig zu machen. Das Risiko ist, zu viel davon zu machen, was gerade alle machen.
