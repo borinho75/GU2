@@ -81,13 +81,17 @@ Punkte, in denen Marc und Boris bereits übereinstimmen:
 - Boris: "Muss nicht auf der Homepage schon sofort konfrontativ sein, aber Sense of Urgency und no-nonsense Sprache."
 - Konvergenz: Website ≠ Schocktherapie. Tonalität = klar + urgent + ehrlich + empathisch.
 
-### 2b — AI-Lautstärke ⬜ OFFEN
+### 2b — AI-Lautstärke ✅ ENTSCHIEDEN
 
-_(noch zu entscheiden — separate Frage)_
+**Entscheidung:** **Option B (mit Twist).** Hauptthema auf der Seite ist **PMF / Innovations-Geschwindigkeit**, nicht AI. AI ist sichtbar als **Mittel zum Zweck** (das Operating System, das die Geschwindigkeit ermöglicht) — aber nicht die Hauptbotschaft. Das **Spannungsfeld Mensch ↔ AI** wird gezielt als **Expertise-Signal** eingesetzt (via Buch "Human Signal", Tonalität, Content-Layer) und ist damit der sichtbare Differenzierer zu klassischer PMF-Beratung.
 
-**Entscheidung:** _(zu füllen)_
+**Begründung:**
+- Boris: "Es geht um Innovation und PMF, und AI ist das Operating System dafür, aber nicht die Hauptinformation. AI ist Mittel zum Zweck, um schneller zu sein."
+- Marc: "Das Spannungsfeld zwischen Mensch und AI ist sehr spannend — ich will sichtbar machen, dass das unsere Expertise ist."
+- Beide Positionen zielen auf dasselbe Konstrukt — genau der Kern von Boris' Buchtitel *"Human Signal — PMF in Zeiten von AI"*.
 
-**Begründung:** _(zu füllen)_
+**Offener Begriffs-Punkt (ins Parking Lot):**
+- Boris: "Innovation als Begriff ist etwas abstrakt." → Alternative Wordings für den Hero nötig. Kandidaten: *"PMF in der AI-Ära"*, *"PMF verteidigen, wenn AI die Regeln ändert"*, *"Innovations-Geschwindigkeit im AI-Zeitalter"*, etc. → Hero-Wording-Iteration später, nicht jetzt.
 
 ---
 
@@ -200,13 +204,14 @@ _(noch zu entscheiden — separate Frage)_
 - **URL/Brand:** Bleibt growthunltd.com? Oder Rebrand zu "GU"?
 - **Tool/Plattform-Visual-Tendenz:** Darf die Seite tooliger wirken oder bleibt sie Advisory-Ästhetik?
 - **Pricing-Transparenz:** Boris will Pricing offen zeigen. Marc OK?
+- **Hero-Wording:** Boris findet "Innovation" zu abstrakt. Alternativ-Begriffe für Hero-Headline sammeln beim konkreten Design (z. B. "PMF in der AI-Ära", "PMF verteidigen, wenn AI die Regeln ändert", etc.).
 
 ---
 
 ## Decision-Status
 
 - ✅ ICP / Zielgruppe — Boris' ICP, Multi-Domain für andere Zielgruppen
-- ⬜ Tonalität + AI-Lautstärke
+- ✅ Tonalität (2a) + AI-Lautstärke (2b) — klar/urgent/no-nonsense, PMF als Hauptthema, AI als Mittel, Mensch-AI-Spannungsfeld als Expertise-Signal
 - ⬜ Produkt-/Subscription-Modell
 - ⬜ CTA-Modell
 - ⬜ Visuals / Landing
