@@ -109,6 +109,16 @@ Fokus-Prinzip: **Eine primäre ICP wählen** — öffnen kann man später.
 - Primärer CTA: 30-Minuten-Diagnose-Call (Friction niedrig, Entscheider kann sofort).
 - SEO kein Primärziel — LinkedIn + persönliches Netzwerk + Buch-Launch = Traffic-Quellen.
 
+**Klärung: Buch + Innosuisse + ICP-Kompatibilität**
+
+> **PMF im ICP-Kontext:** Im neuen ICP heißt die Arbeit nicht "PMF finden" (Startup-Vokabel), sondern **"PMF verteidigen"** oder **"nächsten PMF bauen, bevor der jetzige stirbt"**. Gleiche Disziplin, anderes Vokabular. Alle ICP-Firmen (BDO, INSCYD, Aeschbach, Kemaro) haben PMF — und stehen vor dem Verlust davon durch AI-Disruption.
+>
+> **Buch als Autoritäts-Anker (nicht Zielgruppen-Treffer):** "Human Signal — PMF in Zeiten von AI" positioniert Boris als *den* PMF-Experten der AI-Ära. Der Owner-CEO muss das Buch nicht lesen — er muss wissen, dass Boris es geschrieben hat. Klassisches Berater-Buch-Playbook (Christensen, Moore): Leser-Zielgruppe ≠ Käufer-Zielgruppe.
+>
+> **Innosuisse als R&D + Credential, nicht Service-Linie:** Auf der Website taucht Innosuisse als **Credential** auf (*"Expert Coach — sieht 30+ Gründer/Jahr"*), nicht als Angebot. Wird zum **Seismographen** für ICP-Autorität: *"Ich sehe die Disruption ein Jahr früher — weil ich sie bei den Startups coache, die sie bauen."* Startup-Arbeit = Beweis für Relevanz beim Owner-CEO, kein Widerspruch.
+
+**Offene Buch-Editorial-Frage (parken):** Soll "Human Signal" ein explizites Kapitel / Framing für Scaleup + Owner-CEO-Leser haben ("PMF verteidigen, nicht finden")? Oder bleibt's Gründer-fokussiert und die Website übersetzt? → Wichtig vor Druck, nicht für Website-Relaunch.
+
 ---
 
 ### 3. Das Subscription-Produkt
