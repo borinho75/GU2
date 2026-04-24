@@ -17,7 +17,7 @@ Punkte, in denen Marc und Boris bereits übereinstimmen:
 
 ---
 
-## Spannungsfeld 1 — ICP / Zielgruppe
+## Spannungsfeld 1 — ICP / Zielgruppe ✅ ENTSCHIEDEN
 
 **Marcs Position:**
 - Mittlere KMU als finanzieller Sweetspot
@@ -37,9 +37,17 @@ Punkte, in denen Marc und Boris bereits übereinstimmen:
 - Echter Konflikt: Boris schliesst Pre-PMF Startups *aktiv aus* — Marcs Startup-Schiene fällt damit weg (oder läuft separat ausserhalb GU-Marke)
 - Corporates: beide schwach drin, Boris explizit raus
 
-**Entscheidung:** _(zu füllen)_
+**Entscheidung:**
+- **Boris' ICP wird die GU-ICP** (Owner-/Founder-CEO, 30–300 MA, industrie-agnostisch, existierendes Produkt, AI-Disruption-Pain, entscheidet in Wochen).
+- **Multi-Domain-Architektur:** Andere Zielgruppen (Startups, Buch-Leser, weiterer Content) werden NICHT über growthunltd.com bedient, sondern über **separate Domains**.
+  - Beispiel: Buch ("Human Signal") bekommt eigene Domain.
+  - Etwaige Startup-Tools / Content-Hubs ebenfalls separate URLs.
+- growthunltd.com bleibt damit fokussiert auf den einen ICP.
 
-**Begründung:** _(zu füllen)_
+**Begründung:**
+- Marc: "Wir bleiben bei Boris."
+- Boris: Buch und weiterer Content laufen über andere Domains — damit kein Zielgruppen-Konflikt auf der GU-Hauptseite.
+- Konsequenz: Marcs Startup- / Corporate- / VC-Schienen sind nicht abgesagt, aber strukturell ausserhalb der GU-Marke verortet.
 
 ---
 
@@ -184,7 +192,7 @@ Punkte, in denen Marc und Boris bereits übereinstimmen:
 
 ## Decision-Status
 
-- ⬜ ICP / Zielgruppe
+- ✅ ICP / Zielgruppe — Boris' ICP, Multi-Domain für andere Zielgruppen
 - ⬜ Tonalität + AI-Lautstärke
 - ⬜ Produkt-/Subscription-Modell
 - ⬜ CTA-Modell
