@@ -220,9 +220,28 @@ Automatisiertes PMF-Tool (Marc) ist durch SF1 (Multi-Domain) bereits verortet: *
 - Mein Vorschlag (siehe `claudebrain.md`): Split nicht als Entry-Gate, sondern als ehrlicher "For agents/developers"-Block neben dem Hero, mit echten Links (`/llms.txt`, `context.md`)
 - Open: Boris' Stimme zu Visuals fehlt — was sagt er dazu?
 
-**Entscheidung:** _(zu füllen)_
+### Entscheidung ✅ — ins Design-Briefing delegiert, zwei Varianten weiterverfolgen
 
-**Begründung:** _(zu füllen)_
+**Entscheidung:** Visuals-Detailfragen sind verfrüht fürs Brainstorming und fallen im Design-Schritt (Claude Design). **Beide Varianten** werden als Varianten ins Design-Briefing aufgenommen:
+
+- **Variante A (Marcs Original):** Split-Landing Mensch ↔ Agent als Entry-Gate. Reale MD/JSON-Files hinterlegt, Agent-Seite voll funktional gedacht.
+- **Variante B (Claude-Empfehlung):** Hero bleibt mensch-zentriert, dazu ein unaufdringlicher "For agents / developers"-Block mit echten Links (`/llms.txt`, `context.md`).
+
+Beide Varianten bewusst gegeneinander im Design-Mockup testen.
+
+**Begründung:**
+- Boris: "Wir werden das in einem nächsten Schritt dann erst sehen." → Design-Phase, nicht Strategie-Phase.
+- Marc: "Split hatte ich nicht als fake gesehen, ganz im Gegenteil — die realen Files sind hinterlegt, Bots sind voll funktional eingedacht. Allerdings sehen Bots oft gar nicht erst die HTML-Version, sondern kommen über .htaccess / txt / md gar nicht so weit. Split finde ich immer noch sehr spannend, claudebrain-Empfehlungen sind aber auch denkbar."
+- Keine Vorab-Festlegung nötig — die Entscheidung fällt sauberer mit Mockups in der Hand.
+
+**Technischer Einschub (wichtig für SF6):**
+Marcs Beobachtung *"Bots kommen über .htaccess / txt / md oft gar nicht bis zur HTML"* ist richtig und hat eine Konsequenz: **Echte LLM-Friendliness lebt auf Server-/Header-/llms.txt-Ebene, nicht im HTML-Split.** Der HTML-Split bleibt ein *symbolisches* Signal an Menschen ("wir verstehen auch diese Welt"), aber die funktionale Bot-Seite ist das Markdown-/JSON-Directory. → Floss direkt in SF6 ein.
+
+**Parking Lot (ins Design-Briefing):**
+- Visuelle Richtung: Advisory-Ästhetik (weiche Gradients, ruhige Typo — wie heute) vs. Tool-/Plattform-Tendenz (tech-näher, datenorientierter)?
+- Konkrete Referenzen / Moodboards (fehlen bisher)
+- Mobile-Verhalten beim Split (Toggle? Reveal? Beides übereinander?)
+- Farbwelt (aktuelle Seite oder neu?)
 
 ---
 
@@ -270,6 +289,6 @@ Automatisiertes PMF-Tool (Marc) ist durch SF1 (Multi-Domain) bereits verortet: *
 - ✅ Tonalität (2a) + AI-Lautstärke (2b) — klar/urgent/no-nonsense, PMF als Hauptthema, AI als Mittel, Mensch-AI-Spannungsfeld als Expertise-Signal
 - ✅ Produkt-/Subscription-Modell (3a/3b/3c) — 3-Stufen-Funnel + Coaching-Prämie + Hybrid-Pricing-Transparenz
 - ✅ CTA-Modell — niederschwelliger AI-Mini-Einstieg als Primär, Diagnose sekundär, kein Chatbot
-- ⬜ Visuals / Landing
+- ✅ Visuals / Landing — parken ins Design-Briefing, zwei Varianten (Split vs. embedded Agent-Block)
 - ⬜ LLM-Friendliness
 - ⬜ Parking Lot abgearbeitet
