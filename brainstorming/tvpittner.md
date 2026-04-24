@@ -47,6 +47,9 @@ _Ungefilterte Gedanken, wie sie kommen. Werden später in die unteren Sektionen 
 - **F8 — Einzeiler:** Wenn du einem potentiellen KMU-Kunden in einem einzigen Satz sagen müsstest, wofür GU da ist — was wäre dieser Satz?
   - wir analysieren mit einem kunden, was tatsächlich das problem ist, was er lösen will (in der regel technisch, digital, strategisch oder marketing. dann stellen wir die richtigen fragen, erstellen mit ihm einen klaren weg zum ziel und definieren, wo wir selber oder mit dritten in die umsetzung gehen
 
+- **F9 — Outcome für den Kunden:** Was hat ein KMU-Kunde am Ende eurer Zusammenarbeit, das er vorher nicht hatte?
+  - mehr zeit, mehr automatisierung, schnelleres time to market und im besten fall ein gefühl von sicherheit, die dazu führt, dass er sich auch das nöchste mal wieder bei uns meldet
+
 ## Ziele
 _Was soll die neue Homepage erreichen? (Business-Ziele, Nutzerziele)_
 
