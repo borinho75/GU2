@@ -72,6 +72,19 @@ Punkte, in denen Marc und Boris bereits übereinstimmen:
 - Aber: "Du kannst einpacken" *ist* eine Form von Marketing-Provokation
 - Frage: Konfrontation auf Website-Ebene (Filter) oder erst im Sales-Gespräch (Schock)?
 
+### 2a — Konfrontation auf der Website ✅ ENTSCHIEDEN
+
+**Entscheidung:** **Nicht konfrontativ auf der Startseite, aber klar, offen, dringlich, no-nonsense.** Boris' "einpacken"-Schärfe ist NICHT Hero-Message, sondern bleibt dem Sales-Gespräch / der Diagnose vorbehalten.
+
+**Begründung:**
+- Marc: "Leute abholen, die unsicher sind — nicht zusätzlich abschrecken. Aber sehr klar und offen kommunizieren."
+- Boris: "Muss nicht auf der Homepage schon sofort konfrontativ sein, aber Sense of Urgency und no-nonsense Sprache."
+- Konvergenz: Website ≠ Schocktherapie. Tonalität = klar + urgent + ehrlich + empathisch.
+
+### 2b — AI-Lautstärke ⬜ OFFEN
+
+_(noch zu entscheiden — separate Frage)_
+
 **Entscheidung:** _(zu füllen)_
 
 **Begründung:** _(zu füllen)_
