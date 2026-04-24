@@ -187,7 +187,45 @@ Was wäre der wiederkehrende Wert, für den Kunden monatlich zahlen?
 Ist Marc gleichberechtigter Co-Founder, strategischer Partner oder Advisor?
 
 **Boris' Sicht:**
-> _(wird im Interview gefüllt)_
+
+> **Positionierung: Duo (Option A).** Marc ist gleichberechtigter Co-Founder. Website erzählt "Wir" — nicht "Boris + Partner". Rechtfertigt die 50/50-Story und ist ehrlicher gegenüber Kunden, die beide kennen.
+>
+> **Zeit-Allokation Marc:**
+> - **Tag 1 (Relaunch):** 30%
+> - **Monat 6:** 100%
+> - Linear hochgefahren (Swisscom-Exit parallel zur Ramp).
+>
+> **Revenue-Split:** 50/50.
+>
+> **Differenzierung Boris ↔ Marc:**
+>
+> | Boris liefert | Marc liefert |
+> |---|---|
+> | PMF-Diagnose, Strategie, Org-Design | AI-Architektur, Stack-Entscheidungen, Instrumentierung |
+> | Client-facing Leadership, Sales, Buch, Thought Leadership | Deep-Tech-Evaluation, Tool-Bewertung, technische Umsetzung |
+> | Projekt-Management, Disziplin, Timing | R&D, "was kann Claude 4.8 morgen besser als heute?" |
+>
+> **Persönlichkeits-Ergänzung:**
+> - Marc: Tech-Tiefe, verbeisst sich in neue Technologien; schwächer bei Organisation/Disziplin/Timelines
+> - Boris: Disziplin, Kommunikation, Unternehmer-Erfahrung im Aufbau
+>
+> **Positionierungs-Rewrite (ersetzt Q1-Positionierung "Boris = PMF-Experte mit AI-Skills"):**
+>
+> > **"Wir sind das Duo, das PMF in der AI-Ära diagnostiziert UND das AI-native Operating System baut. Boris bringt PMF + Strategie + Org. Marc bringt AI-Architektur + Tech-Tiefe. Die einzige Schweizer Adresse, die beides kann."**
+
+**Kritisches Ramp-Risiko (muss vor Relaunch adressiert werden):**
+
+> **Problem:** In Monat 1–6 ist Marc zu 30% da (≈12h/Woche). Die Duo-Positionierung verspricht volle Marc-Kapazität. Capacity-Rechnung:
+> - Geplantes Volumen Jahr 1: 4–6 Transformationen + 10 Subscriptions + 8–12 Diagnosen → ~3500–4200 Arbeitsstunden/Jahr
+> - Boris 100% + Marc 30%-über-6-Monate-dann-100% = ~2340h im Jahr 1 (≈ Hälfte der Bedarfs)
+>
+> **Erste 6 Monate: massive Unterdeckung.** Ungelöst bedeutet: Boris wird Bottleneck, oder Mandate brechen, oder Reputation kippt.
+>
+> **Lösungsoptionen (müssen vor Go-Live entschieden werden):**
+> - (a) Sales-Throttle: nur 1–2 Mandate in Monat 1–6 zulassen
+> - (b) Marc-Ramp beschleunigen (Swisscom früher verlassen, notfalls finanziell gestützt durch GU-Vorauszahlung)
+> - (c) Dritte Person (Delivery Ops / AI-Engineer als Contractor) zur Überbrückung
+> - (d) Website-Launch verschieben, bis Marc 60%+ hat
 
 ---
 
@@ -199,6 +237,9 @@ Ist Marc gleichberechtigter Co-Founder, strategischer Partner oder Advisor?
 - **Transparenz der "Einpacken"-Diagnose:** Website-Headline-Ebene oder erst im Gespräch?
 - **Pricing-Review:** Boris hat sich in Scaleup-Kontexten tendenziell unter Wert verkauft (Soeder CHF 200/h) im Vergleich zu KMU-Kontexten (Orbis/IMD CHF 350/h). Teil des Relaunchs: Preise und Paketierung strategisch neu setzen, passend zu Subscription-Modell.
 - **Buchveröffentlichung "Human Signal — PMF in Zeiten von AI":** Timing-Koordination mit Website-Relaunch? Launch-Strategie? Lead-Magnet-Kapitel auf Seite?
+- **Marc-Disziplin + Operations:** Marc bringt Tech-Tiefe, ist aber schwach bei Disziplin/Timelines. Bei 90-Tage-Delivery brechen ohne Struktur die Mandate. Braucht es eine 3. Person (Delivery Ops / Project Lead), oder kann Boris die Disziplin dauerhaft für beide mitbringen, ohne selbst zum Bottleneck zu werden?
+- **Marc-Ramp 30%→100%:** Warum 6 Monate? Swisscom-Kündigungsfrist (fix) oder finanzielle Abhängigkeit (verhandelbar)? Davon hängt ab, ob man die Ramp verkürzen kann (via GU-Vorauszahlung, früherer Exit) oder ob sie strukturell fest ist.
+- **Positionierungs-Rewrite-Abstimmung mit Marc:** Duo-Story braucht Marcs Commitment zur Formulierung — seine eigene brainstorming-Datei muss das abdecken.
 
 ---
 
