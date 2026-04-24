@@ -68,6 +68,9 @@ _Ungefilterte Gedanken, wie sie kommen. Werden später in die unteren Sektionen 
 - **F15 — Projekte-/Firmen-Pfad:** Wie löst du den Spagat — Firma und Projekte zeigen, ohne dass die Gesichter dominieren?
   - weiss ich nicht so genau. testimonials mit guten starken statemens und einer einfachen erzähl form bei den projekten und allenfalls dem bereich, den Boris und oder ich bei den Projekten hatten um den persönlichen Faktor mit einzubringen
 
+- **F16 — Referenzen / Visuals:** Welche Seiten hast du im Kopf, wenn du sagst "nicht wie alle anderen" — positiv oder negativ?
+  - nichts, was zu starkt nach marketing und AI generiert aussieht. schon grosse schriften aber nicht so, dass man das gefühl hat, es sei irgend eine agentur seite.
+
 ## Ziele
 _Was soll die neue Homepage erreichen? (Business-Ziele, Nutzerziele)_
 
