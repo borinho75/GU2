@@ -62,6 +62,9 @@ _Ungefilterte Gedanken, wie sie kommen. Werden später in die unteren Sektionen 
 - **F13 — PMF-Pfad:** Wie zeigt ihr eure Themenführerschaft, ohne dass es nach Lehrbuch-Kopie klingt?
   - entweder einigermassen interaktiv oder aber mit einem hinweis zu mehr content (evt gated) oder mit hinweis auf unser Buch, das wir publizieren werden
 
+- **F14 — Das Buch:** Worum geht's in diesem Buch?
+  - boris schreibt gerade an einem buch über die interaktion des menschen und des menschlichen faktors in der AI zeit im bereich und der anwendung des PMF.
+
 ## Ziele
 _Was soll die neue Homepage erreichen? (Business-Ziele, Nutzerziele)_
 
