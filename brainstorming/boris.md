@@ -33,7 +33,25 @@ Was ist Growth Unltd.s *Meinung* zu AI in Organisationen? Drei mögliche Haltung
 - **AI-Economy Positioning** — PMF und Wachstum im Kontext neuer AI-Märkte und -Konkurrenten
 
 **Boris' Gedanken:**
-> _(wird im Interview gefüllt)_
+
+> **Kern-These:** AI ist das Operating System der Firma — nicht ein Use Case, nicht ein Produkt-Feature. Wer fragt "wo setzen wir KI ein?" hat den Frame schon verloren.
+>
+> **Auslöser-Szene:** Martin (CEO Kemaro, Industrie-Reinigungsroboter, chinesische Konkurrenz iteriert schneller): *"Wir wollen KI einsetzen, wissen aber noch nicht wie."* → Das ist die paralysierte Standardhaltung im Schweizer Scaleup-Markt.
+>
+> **Priorisierung:** **Organisation zuerst** (AI-native OS). Produkt-AI folgt als Nebeneffekt — eine AI-native Organisation produziert automatisch schneller, weil Engineering, Marketing, Support, Hiring im Agenten-Takt laufen. Produkt-Velocity ist Output des OS, nicht ein separates Problem.
+>
+> **Zeitfenster:** 30 / 60 / 90 Tage. Ab Tag 90 läuft es.
+>
+> **Kante / Unique Take:**
+> *"Wir machen keine Präsentation, wir implementieren. Wir gehen rein, machen uns schmutzig. Und wir sagen ihnen, dass sie in 2 Jahren einpacken können, wenn sie so weitermachen."*
+> → Anti-McKinsey (keine Slides). Anti-AI-Agentur (keine isolierten Pilotprojekte). Schonungslose Diagnose inklusive.
+>
+> **Was wir NICHT sind:** Keine AI-Economy-Strategen (Neumärkte/Positionierung im AI-Markt = nicht unser Spiel). Keine Prompt-Engineering-Schule. Keine Tool-Auswahl-Beratung.
+
+**Offene Stress-Tests für später:**
+- Hält "Tag 90 läuft es" bei Firmen >200 MA, oder nur bei Scaleups unter 80?
+- Wie erklären wir Produkt-AI-Skeptikern, dass OS-Transformation ihre Produkt-Velocity löst, ohne dass sie's im ersten Quartal sehen?
+- "In 2 Jahren einpacken" — sagen wir das auf der Website (Filter) oder erst im Sales-Gespräch (Schock)?
 
 ---
 
@@ -80,7 +98,10 @@ Ist Marc gleichberechtigter Co-Founder, strategischer Partner oder Advisor?
 
 ## Offene Themen / Parking Lot
 
-- _(entsteht im Interview)_
+- **ICP-Realität vs. Website-Versprechen:** Boris arbeitet faktisch nur mit Startups/Scaleups, Marc kommt aus KMU/Corporate. Die heutige Seite ("SMEs / Startups / Scaleups") verkauft eine Zielgruppe, die Boris nie bedient → wird in Frage 2 hart geprüft.
+- **Implizite AI-These-Priorisierung:** Boris priorisiert Template-Haltung 1+2 (AI-native OS + AI-augmented Organisation), lässt Haltung 3 (AI-Economy / Markt-Neudefinition) raus — in finaler Abstimmung mit Marc prüfen.
+- **Stress-Test 90-Tage-Claim:** Belastbar für Firmen bis ~80 MA? Darüber?
+- **Transparenz der "Einpacken"-Diagnose:** Website-Headline-Ebene oder erst im Gespräch?
 
 ---
 
