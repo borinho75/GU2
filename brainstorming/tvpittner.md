@@ -74,6 +74,9 @@ _Ungefilterte Gedanken, wie sie kommen. Werden später in die unteren Sektionen 
 - **F17 — Kontakt-Aktion:** Wenn der Besucher konkret Hilfe braucht und sich melden will — wie soll dieser Kontakt entstehen?
   - sicher ein formular aber allenfalls auch eine möglichkeit einen promt bei dir oder openai zu öffnen, den wir mit einem MD file gestüttz dafür verwenden können, damit die leute in ihren eigenen umgebungen fragen an uns oder unsere seite stellen können. auch wäre ein direktes mail open mit augefüllten inhalten denkbar. ich denke explizit nicht an einen chatbot
 
+- **F18 — Tonalität:** Welchen Ton soll die Seite haben?
+  - ansprechend, persönlich professionell und zurückhaltend. keine superlative, kein marketing bla bla
+
 ## Ziele
 _Was soll die neue Homepage erreichen? (Business-Ziele, Nutzerziele)_
 
