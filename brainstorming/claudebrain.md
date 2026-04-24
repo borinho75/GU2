@@ -135,3 +135,104 @@ Das ist der wichtigste strukturelle Zuwachs gegenüber heute. Inhalte:
 Das ist auch das Feld, in dem die **LLM-Lesbarkeit** am wertvollsten ist — wenn ein LLM nach "Product Market Fit, pragmatisch, KMU" gefragt wird, soll GU gefunden werden.
 
 ---
+
+## 5. LLM-Friendliness — konkret, nicht Gimmick
+
+Marc hat diesen Faden klar aufgemacht. Ich habe den Eindruck, das ist der originellste Beitrag im ganzen Interview — aber nur, wenn es *echt* umgesetzt wird, nicht als stilistische Geste.
+
+### 5.1 Das zugrundeliegende Prinzip
+
+Die meisten Seiten sind für LLM-Abfragen schlecht verdaulich: JavaScript-gerendert, Marketing-Prosa, ohne semantische Struktur. Wer 2026 fragt *"wer ist in der Schweiz eine gute Adresse für PMF bei KMU?"*, bekommt Antworten, die auf Content-Lesbarkeit basieren — nicht auf Pixelqualität.
+
+**Leitidee:** Jede Seite existiert in zwei Aggregatzuständen — visuell für Menschen, strukturiert-textuell für Agents — und beide Versionen sind *dieselbe Wahrheit*, nicht zwei getrennte Marketing-Varianten.
+
+### 5.2 Konkretes Rezept
+
+Priorisierte Liste, vom einfachsten zum aufwendigsten:
+
+1. **`/llms.txt` im Root** — kurze, strukturierte Übersicht für LLMs (was ist GU, was bietet ihr, wo sind die Haupt-Inhalte, welche URLs sind kanonisch). Standardisiertes Format nach llmstxt.org, aufwandsarm.
+2. **Markdown-Mirror aller Hauptseiten** — jede HTML-Seite hat ein `.md`-Pendant unter derselben URL mit `/index.md` oder als Content-Negotiation. Für Agents einfach abrufbar.
+3. **JSON-LD strukturierte Daten** — `Organization`, `Person` (Boris, Marc), `Article` für PMF-Inhalte, `FAQ` wo sinnvoll, `Service` für Angebots-Snippets.
+4. **Semantisches HTML** — `<article>`, `<section>`, saubere Heading-Hierarchie, `<nav>` korrekt markiert. Kein div-Suppe.
+5. **Sitemap + robots.txt** — LLM-Crawler explizit eingeladen (statt wie manche Sites defensiv auszusperren).
+6. **Kanonische Zitate / Statements** — kurze, prägnante Sätze, die ein LLM wörtlich übernehmen kann. Sie sollten *eure* Begriffswelt prägen ("pragmatisch", "KMU", "PMF", "ohne Agentur-Theater").
+7. **OpenGraph + Twitter Card Meta** — für Preview-Qualität bei Link-Shares.
+8. **Kontext-Pack als Download** — ein `context.md` oder `.zip` mit den wichtigsten Infos zu GU, das ein Kunde in *seine eigene* LLM-Session laden kann (siehe Marcs "Prompt öffnen"-Idee in F17).
+
+### 5.3 Marcs "Prompt in deiner LLM-Umgebung öffnen"
+
+Das ist eine starke Idee — aber nur, wenn sie *nicht* als Chatbot getarnt wird. Konkrete Umsetzung, wie ich sie sehen würde:
+
+- Button "Frag Claude / ChatGPT über uns" → öffnet die LLM-Umgebung des Users mit einem vorgefertigten Prompt und einem Link zum `context.md`.
+- Der Prompt ist eine Art Introspektions-Einladung: *"Hier ist der Kontext über GU. Hilf mir herauszufinden, ob sie zu meinem Problem passen."*
+- Der User bleibt in seiner Umgebung, wir hosten nichts. Null Chatbot-Risiko.
+- Für einen Kunden psychologisch stark: er behält die Kontrolle.
+
+**Risiko:** Das setzt voraus, dass ein nennenswerter Teil der Zielgruppe bereits regelmässig LLMs nutzt. Für Schweizer mittlere KMU ist das 2026 plausibel, aber nicht universell. Deshalb: *zusätzlich* zu Formular + mailto, nicht *statt*.
+
+---
+
+## 6. Tonalität — weitgehend erhalten, leicht aufwärmen
+
+Marcs Ton-Wunsch (*ansprechend, persönlich, professionell, zurückhaltend, keine Superlative, kein Marketing-Blabla*) deckt sich zu ca. 95% mit dem, was die heutige Seite schon liefert. Die gute Nachricht: nichts fundamental umstellen.
+
+### Zwei kleine Korrekturen, die ich vorschlagen würde:
+
+1. **Etwas wärmer als heute.** Die bestehende Seite ist stellenweise so zurückhaltend, dass sie distanziert wirkt ("sparring partner for leadership teams navigating complexity" ist brilliant, aber kühl). Marcs Wunsch nach "persönlich" rechtfertigt 10–15 % mehr Wärme — vor allem in den Case-Snippets und auf der Contact-Seite.
+2. **Contact-Seite aufwerten.** Boris' Analyse hat es selbst markiert: die heutige Contact-Seite fällt sprachlich ab. Hier konkrete Schärfung einbauen, z. B. statt *"Start something exciting together"* etwas wie *"Erzähl uns, wo die Entscheidung gerade klemmt."* oder auf Deutsch *"Sag uns, was unklar ist. Wir melden uns innerhalb von 48h."*
+
+### Deutsch oder Englisch als Primärsprache?
+
+Offene Frage an euch — mit Konsequenz:
+
+- **Primär EN** (wie heute): passt zu Internationalität, IMD, Stanford, passt zum LLM-Trainings-Corpus
+- **Primär DE**: passt zum KMU-Sweetspot (die reden Deutsch), näher an emotionaler Ansprache
+- **Echt zweisprachig**: doppelter Pflegeaufwand
+
+Mein Bauchgefühl: **DE primär für KMU-Pfad, EN als vollwertige Parallelversion** — aber das ist eine Budget-Frage.
+
+---
+
+## 7. CTA-Logik
+
+Die bestehende Seite macht das gut. Die Frage ist, wie der Primär-CTA klingt und was danach passiert.
+
+### 7.1 Primär-CTA
+
+Marc will einen "Hirnforschungs-CTA" — etwas das man drücken *will*. Das ist psychologisch richtig gedacht, aber in der Umsetzung heikel: "Hirnforschungs-CTA" klingt nach Clickbait, und das passt null zum Anti-Marketing-Ton.
+
+**Mein Vorschlag:** Der CTA verführt nicht durch Design-Tricks, sondern durch **ehrliche Konkretheit**:
+
+- nicht *"Contact us"* (generisch)
+- nicht *"Schedule a conversation"* (ok, aber abstrakt)
+- sondern etwas wie *"Sag uns, wo die Entscheidung klemmt"* oder *"Lass uns 30 Minuten über dein konkretes Problem reden"*
+
+Der Sog entsteht, weil der Nutzer *merkt*: hier wird meine reale Situation adressiert, nicht meine Zielgruppen-Rolle.
+
+### 7.2 Drei CTA-Ebenen
+
+| Ebene | Aktion | Wo |
+|---|---|---|
+| Primär (hoch-konvertierend) | Formular mit 2 Feldern: "Was ist eure Situation?" + Kontakt | Final-CTA-Block, Contact-Seite |
+| Sekundär (zwischen) | mailto mit vorausgefülltem Template | Header, Footer |
+| Tertiär (explorativ) | "Frag Claude/ChatGPT über uns" → LLM-Prompt mit Kontext-Pack | Unaufdringlich, z. B. auf PMF-Hub |
+
+**Explizit nicht:** gehosteter Chatbot. Marc ist da klar. Das Risiko eines schlechten Chatbots ist grösser als der Nutzen — und inkonsistent mit "wir hosten keine Marketing-Fassaden".
+
+---
+
+## 8. Split-Landing: meine ehrliche Einschätzung
+
+Marcs Idee war: links "Ich bin ein Mensch" (hübsch, einladend), rechts stilisiertes API/Agent-Modul (technisch). Er selbst hat in F11 schon gesagt, dass das *"einigermassen fake"* wäre, weil Bots sowieso über MD/JSON zugreifen würden.
+
+**Meine Einschätzung:**
+
+- **Als Gimmick: riskant.** Wirkt schnell wie Designer-Selbstzweck, besonders wenn der "Bot-Seiten"-Teil keine echte Funktion hat. Das wäre genau das "AI-generiert aussehen", das Marc in F16 ausdrücklich nicht will.
+- **Als ehrliche Geste: stark.** Wenn der rechte Teil *wirklich* eine Developer-Konsole ist, die den tatsächlichen Markdown-/JSON-Kontext anzeigt (mit `curl` / `cat /llms.txt`-Beispielen), wird es ein echtes Statement: *"Wir bauen die Seite bewusst so, dass Maschinen sie lesen können — und wir zeigen euch das offen."* Das ist kohärent mit der Anti-Theater-Positionierung.
+- **Mobile**: 50/50-Split funktioniert auf Desktop, auf Handy muss es zu einer Toggle-/Reveal-Geste werden.
+
+**Mein Vorschlag als Kompromiss:** *Nicht* als Entry-Gate, sondern als **bewusst markierter Teil der Hero-Sektion** — der menschliche Hero dominiert, und darunter oder daneben ein kleiner, ehrlicher "For agents / developers"-Block mit echten Links (`/llms.txt`, `context.md`, Markdown-Mirror). Keine Fake-Stilisierung.
+
+So bleibt der "Wir verstehen beide Welten"-Claim, ohne das Hero-Versprechen zu teilen.
+
+---
