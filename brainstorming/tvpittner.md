@@ -17,6 +17,9 @@ _Ungefilterte Gedanken, wie sie kommen. Werden später in die unteren Sektionen 
   - ich werde viel mehr aktiv werden in unserer firma und möchte deshalb mehr einfluss auf den inhalt der seite nehmen. auch meine expertise ist dabei wichtig, damit meine fähigkeiten dort wo sie strategisch zu GU (ich nenne die firma jeweils so in der zukunft) passen. Meine Fähigkeiten findest du übrigens unter cv.pittner.ch.
   - darüber hinaus wollen wir unseren potentiellen kunden klar vermitteln, was wir gut können und was nicht.
 
+- **F2 — Expertise sichtbar machen:** Welche Fähigkeiten von dir sollen auf der neuen Homepage sichtbar werden — in deinen eigenen Worten, bevor ich mir cv.pittner.ch anschaue?
+  - ich muss nicht den ganzen Marc einbringen sondern mit boris zusammen unser angebot schärfen aber wir bleiben im Grunde bei den Werten und dem Angebot von GU. Ich möchte auch nicht zu stark uns als personen im Vordergrund. Es soll eher auch darum gehen, dass die Seite zeigt, dass wir wissen wovon wir sprechen. Es geht darum die Projekte die entstehen könnten darin sauber abzubilden aber vorallem bestehnden und neuen KLunden einen guten Entry zu geben. Die Seite ist nicht einfach eine Homepage sondern schon der erste Schritt der Zusammenarbeit
+
 ## Ziele
 _Was soll die neue Homepage erreichen? (Business-Ziele, Nutzerziele)_
 
