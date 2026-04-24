@@ -23,6 +23,9 @@ _Ungefilterte Gedanken, wie sie kommen. Werden später in die unteren Sektionen 
 - **F3 — "Erster Schritt der Zusammenarbeit":** Was heisst das konkret? Wenn jemand auf der Seite landet und du würdest dir wünschen, dass er wirklich mitarbeitet — was soll dann auf der Seite passieren, was über reines Lesen hinausgeht?
   - ich denke in der heutigen zeit ist ein besucher entweder ein bot, agent, llm oder eine person, die aus weiterempfehlung oder search auf der seite landet. diese beiden arten von traffic sollten wir wohl unterscheiden aber das ziel müsste sein, dass sich jemand bei uns meldet, weil er konkret hilfe braucht. ich sehe uns als eine art boutique mit dem credo product market fit und den elementen dieses frameworks um auch projekte zu absolvieren die wohl eher in den bereich beratung gehe,n. wir wissen ja, dass wr nicht nur unsere zeit verkaufen werden (das skaliert nicht) sondern auch tools und apps und plattformen soweit mit unseren kunden entwickeln, damit wir einen retainer haben oder sogar passives einkommen
 
+- **F4 — Boutique vs. klassische Beratung:** Was macht aus GU die "Boutique" — woran würde ein Kunde in der Zusammenarbeit merken, dass er bei euch ist und nicht bei einer klassischen Beratung?
+  - wir haben beide sehr viel erfahrung und komplementäre stärken. kunden sollten aber in erster linie wissen, dass wir ihnen pragmatisch und einfach helfen probleme zu formulieren und diese zu lösen. PMF ist unser haupt standbein aber wir können auch homepages bauen oder tools konzipieren, damit gehen wir ganz sakrosankt den weg, dass wir mit primär mit hilfe der neuen möglichkeiten mit claude, openair und all den AI anbietern haben. wir sind keine agentur, wir wollen keine wordpress seiten verkaufen, wir sind keine klassischen berater.
+
 ## Ziele
 _Was soll die neue Homepage erreichen? (Business-Ziele, Nutzerziele)_
 
