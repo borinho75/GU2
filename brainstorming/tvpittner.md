@@ -65,6 +65,9 @@ _Ungefilterte Gedanken, wie sie kommen. Werden später in die unteren Sektionen 
 - **F14 — Das Buch:** Worum geht's in diesem Buch?
   - boris schreibt gerade an einem buch über die interaktion des menschen und des menschlichen faktors in der AI zeit im bereich und der anwendung des PMF.
 
+- **F15 — Projekte-/Firmen-Pfad:** Wie löst du den Spagat — Firma und Projekte zeigen, ohne dass die Gesichter dominieren?
+  - weiss ich nicht so genau. testimonials mit guten starken statemens und einer einfachen erzähl form bei den projekten und allenfalls dem bereich, den Boris und oder ich bei den Projekten hatten um den persönlichen Faktor mit einzubringen
+
 ## Ziele
 _Was soll die neue Homepage erreichen? (Business-Ziele, Nutzerziele)_
 
