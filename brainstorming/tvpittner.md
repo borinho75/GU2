@@ -59,6 +59,9 @@ _Ungefilterte Gedanken, wie sie kommen. Werden später in die unteren Sektionen 
 - **F12 — Weg des Menschen:** Was findet der menschliche Besucher auf der nächsten Ebene? Welche Inhalte, in welcher Reihenfolge?
   - entweder will er sich zu uns und unseren projekten informieren, oder es will grundsätrzlich etwas zu pmf erfahren
 
+- **F13 — PMF-Pfad:** Wie zeigt ihr eure Themenführerschaft, ohne dass es nach Lehrbuch-Kopie klingt?
+  - entweder einigermassen interaktiv oder aber mit einem hinweis zu mehr content (evt gated) oder mit hinweis auf unser Buch, das wir publizieren werden
+
 ## Ziele
 _Was soll die neue Homepage erreichen? (Business-Ziele, Nutzerziele)_
 
