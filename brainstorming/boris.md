@@ -132,7 +132,53 @@ Was wäre der wiederkehrende Wert, für den Kunden monatlich zahlen?
 - Content-Subscription (Playbooks, Templates, Tools — Boris' IP skaliert)
 
 **Boris' Gedanken:**
-> _(wird im Interview gefüllt)_
+
+> **Produkt-Architektur (3-Stufen-Funnel):**
+>
+> **1. Einstieg — "AI-Readiness Diagnose"** (einmalig, kein Abo)
+> - 3–4 Wochen, CHF 8–15k pauschal
+> - Lieferung: schriftlicher Diagnosebericht (20–30 Seiten) + 90-Min Debrief
+> - Zweck: Schonungslose Bestandsaufnahme + natürlicher Funnel zur Transformation (Ziel-Conversion ~30–40%)
+> - Wer nicht konvertiert → bleibt in Newsletter/Liste
+>
+> **2. Kern — "90-Day Transformation"** (einmalig, Hauptprodukt)
+> - 30 / 60 / 90 Tage. "Wir gehen rein, machen uns schmutzig, bauen das AI-native OS."
+> - Scope-basiert gepreist:
+>   - Teilprojekt (einzelne Funktion): CHF 30–60k
+>   - Full OS, kleinere Firma (30–100 MA): CHF 60–120k
+>   - Full OS, mittlere Firma (100–300 MA): CHF 120–220k
+> - Während der Transformation wird **Instrumentierung** eingebaut → Grundlage für Subscription-Lock-in
+>
+> **3. Subscription — Monatlich, nach Transformation**
+> Tiers sind **Intensität** (nicht Firmengröße):
+>
+> | Tier | Preis/Monat | Was drin |
+> |---|---|---|
+> | **Signal** | CHF 2'500 | Monats-Reporting + Handlungsempfehlungen, 1 Call/Monat |
+> | **Rhythm** | CHF 5'000 | Bi-weekly Check-ins, OS-Updates, quartalsweise OKR-Review |
+> | **Edge** | CHF 10'000 | Weekly Check-ins, Reaction-SLA <24h, Leadership-Sparring inkl. |
+>
+> **Namensgebung verbindet zum Buch "Human Signal":** Signal → Rhythm → Edge als wachsende Tiefe.
+>
+> **Lock-in (zwei Ebenen):**
+> 1. **Proprietäre Daten + Interpretation:** Instrumentierung läuft nach Transformation weiter — aber nur Boris interpretiert sie mit Kunden-Kontext und übersetzt in Stack/OS-Anpassungen. Kerndifferenzierung: **"Was ist Signal, was ist Noise?"** — spiegelt Buch-Positionierung.
+> 2. **Akkumulierte Needs-Kenntnis:** Je länger das Mandat, desto tiefer das Verständnis der spezifischen Firma → Wechsel-Kosten für Kunden steigen.
+>
+> **Gate-Policy:** **Subscription nur nach Transformation.** Keine Light-Subscription ohne vorheriges Mandat — würde Lock-in auflösen und "wir implementieren"-Positionierung verwässern.
+>
+> **Revenue-Modell (24-Monats-Horizont):**
+> - Ziel: Parallel 10 aktive Subscriptions × Ø CHF 5k/Monat = CHF 50k/Monat recurring = CHF 600k/Jahr
+> - Plus: 4–6 Transformationen/Jahr × Ø CHF 100k = CHF 400–600k einmalig
+> - Plus: 8–12 Diagnosen/Jahr × CHF 10k = CHF 80–120k (Funnel + Filter)
+
+**Website-Implikation:**
+- Primärer CTA: **"AI-Readiness Diagnose buchen"** (nicht "Discovery Call") — bezahlter erster Schritt filtert Ernsthaftigkeit
+- Pricing-Seite zeigt die 3 Subscription-Tiers + Transformation-Preisrahmen (nicht versteckt)
+- Light-Subscription explizit *nicht* auf Website
+- Content-Subscription (Buch-Liste) läuft **separat** außerhalb GU-Marke — über Boris' Personal Brand
+
+**Nicht auf Website, aber verfügbar auf Anfrage:**
+- Micro-Transformation (30 Tage, einzelnes Team, CHF 20–30k) → für Kunden, die skeptisch sind vor 90-Tage-Commitment
 
 ---
 
