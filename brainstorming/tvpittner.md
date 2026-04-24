@@ -71,6 +71,9 @@ _Ungefilterte Gedanken, wie sie kommen. Werden später in die unteren Sektionen 
 - **F16 — Referenzen / Visuals:** Welche Seiten hast du im Kopf, wenn du sagst "nicht wie alle anderen" — positiv oder negativ?
   - nichts, was zu starkt nach marketing und AI generiert aussieht. schon grosse schriften aber nicht so, dass man das gefühl hat, es sei irgend eine agentur seite.
 
+- **F17 — Kontakt-Aktion:** Wenn der Besucher konkret Hilfe braucht und sich melden will — wie soll dieser Kontakt entstehen?
+  - sicher ein formular aber allenfalls auch eine möglichkeit einen promt bei dir oder openai zu öffnen, den wir mit einem MD file gestüttz dafür verwenden können, damit die leute in ihren eigenen umgebungen fragen an uns oder unsere seite stellen können. auch wäre ein direktes mail open mit augefüllten inhalten denkbar. ich denke explizit nicht an einen chatbot
+
 ## Ziele
 _Was soll die neue Homepage erreichen? (Business-Ziele, Nutzerziele)_
 
