@@ -213,19 +213,23 @@ Ist Marc gleichberechtigter Co-Founder, strategischer Partner oder Advisor?
 >
 > > **"Wir sind das Duo, das PMF in der AI-Ära diagnostiziert UND das AI-native Operating System baut. Boris bringt PMF + Strategie + Org. Marc bringt AI-Architektur + Tech-Tiefe. Die einzige Schweizer Adresse, die beides kann."**
 
-**Kritisches Ramp-Risiko (muss vor Relaunch adressiert werden):**
+**Ramp-Modell (entschieden):**
 
-> **Problem:** In Monat 1–6 ist Marc zu 30% da (≈12h/Woche). Die Duo-Positionierung verspricht volle Marc-Kapazität. Capacity-Rechnung:
-> - Geplantes Volumen Jahr 1: 4–6 Transformationen + 10 Subscriptions + 8–12 Diagnosen → ~3500–4200 Arbeitsstunden/Jahr
-> - Boris 100% + Marc 30%-über-6-Monate-dann-100% = ~2340h im Jahr 1 (≈ Hälfte der Bedarfs)
+> **Die Ramp ist demand-getrieben, nicht kalendergetrieben.** Marc kann **ab Mitte Mai 2026 auf 100% gehen**, sobald das Auftragsvolumen seine Vollzeit-Kosten deckt. Trigger-Bedingung (zu definieren mit Marc): z.B. *"2 unterschriebene Transformations-Mandate + 1 Diagnose-Signing → Marc kündigt Swisscom und geht 100%."*
 >
-> **Erste 6 Monate: massive Unterdeckung.** Ungelöst bedeutet: Boris wird Bottleneck, oder Mandate brechen, oder Reputation kippt.
+> **Konsequenz für Strategie:**
+> - Das eigentliche Risiko ist nicht Kapazität, sondern **Conversion-Speed in den ersten 4–6 Wochen nach Relaunch**. Jeder Abschluss zieht Marc schneller voll ins Boot.
+> - **Sales-Throttle wäre falsch** — genau das Gegenteil: maximaler Sales-Push auf die 100–200 warmen Kontakte in Wochen 1–4.
+> - Wenn Marc Mitte Mai auf 100% geht, reduziert sich die Capacity-Unterdeckung auf ~4–5 Wochen (nicht 6 Monate). Jahreskapazität ~3000h — nahe am Bedarf von 3500–4200h.
 >
-> **Lösungsoptionen (müssen vor Go-Live entschieden werden):**
-> - (a) Sales-Throttle: nur 1–2 Mandate in Monat 1–6 zulassen
-> - (b) Marc-Ramp beschleunigen (Swisscom früher verlassen, notfalls finanziell gestützt durch GU-Vorauszahlung)
-> - (c) Dritte Person (Delivery Ops / AI-Engineer als Contractor) zur Überbrückung
-> - (d) Website-Launch verschieben, bis Marc 60%+ hat
+> **Gewählte Lösungs-Kombi:**
+> - **Primär: (b) Demand-getriggerte Ramp** mit definierter Schwelle (2 Mandate + 1 Diagnose), maximalem Sales-Push in Wochen 1–4
+> - **Backup: (c) Contractor als Peak-Puffer** für mögliche Überlast-Wochen in Monat 5–6
+> - **Optional: GU-Vorfinanzierung** 1–2 Monate Marc-Salary, falls man Commitment vorziehen will — aber nur wenn Boris das Cash-Risiko mental trägt
+>
+> **Verworfen:**
+> - (a) Sales-Throttle — killt Cash genau im kritischen Momentum-Fenster
+> - (d) Launch-Verschiebung — verliert 3–6 Monate im 24-Monats-Horizont
 
 ---
 
