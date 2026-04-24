@@ -174,9 +174,32 @@ Automatisiertes PMF-Tool (Marc) ist durch SF1 (Multi-Domain) bereits verortet: *
 - Aber: Frage ist, ob der Primär-CTA auf der Startseite "Diagnose buchen" ist (sofort mit Preis) oder "Sag uns wo's klemmt" (Lead) oder beides nebeneinander
 - LLM-Friendliness-CTA (Marc) ist additiv, kein Konflikt
 
-**Entscheidung:** _(zu füllen)_
+### Entscheidung ✅
 
-**Begründung:** _(zu füllen)_
+**CTA-Hierarchie:**
+
+| Ebene | Aktion | Wo | Niederschwelligkeit |
+|---|---|---|---|
+| **Primär** | **Interaktiver AI-Mini-Einstieg** (z. B. PMF-Quick-Check / Signal-Noise-Analyse / AI-Readiness-Score) — endet mit qualitativem Ergebnis + CTA zur bezahlten Diagnose | Hero, Final-CTA | ★★★ hoch |
+| Sekundär | Direkt "Diagnose buchen" (CHF 8–15k) — für die, die schon ready sind | Pricing-Seite, How-we-work, Header | ★☆☆ gering |
+| Sekundär | Klassischer Kontakt: Formular "Wo klemmt's?" + mailto-Fallback | Contact, Footer | ★★☆ mittel |
+| Tertiär | "Frag deinen LLM über uns" → Prompt-Open mit Kontext-Pack | PMF-Hub, "For agents"-Block | ★★☆ mittel |
+| Bewusst **nicht** | Gehosteter Chatbot | — | — |
+
+**Begründung:**
+- Marc: "Niederschwellig und interessiert. Mein Ziel ist ausschliesslich, dass sich jemand auf jeden Fall bei uns meldet. Danach haben wir es in der Hand."
+- Boris: "Offen, in der Tendenz best practice, allerdings wäre cool, wenn wir einen AI-Wow-Effekt hätten, damit man schon etwas spielen oder machen kann."
+- **Synthese:** Der AI-Wow-Effekt *ist* der niederschwellige Primär-CTA. Besucher macht eine 2–5-Minuten AI-gestützte Selbst-Diagnose → bekommt qualitatives Ergebnis → wird zum Gespräch / zur bezahlten Diagnose geleitet. Löst Marcs Niederschwellig-Wunsch und Boris' Wow-Wunsch in einer Geste.
+- Bezahlte Diagnose (Boris' ursprünglicher Primär-CTA) bleibt direkt buchbar für ready-ICP, ist aber nicht der Haupt-Hero-CTA.
+
+**Konsequenz für Design:**
+- Der interaktive Mini-Einstieg ist ein eigenes Produkt-Asset — keine PHP-Umfrage, sondern ein gut gemachtes AI-Tool (z. B. "PMF Signal Check" oder "AI-OS Readiness Scan"). Konkrete Form im Design-Schritt festzulegen.
+- Wichtig: Das Mini-Tool muss *echten* Wert liefern, sonst kippt der Wow-Effekt in Enttäuschung. Qualität des AI-Prompts + Output entscheidet.
+
+**Parking Lot (ins Design-Briefing):**
+- Welche konkrete Mini-Experience? (PMF-Quick-Check, Signal-Noise-Analyse, AI-Readiness-Score, Mensch-AI-Balance-Check, …)
+- Output-Form: kurzer Report, Score, Vergleichsgrafik, PDF-Download?
+- Datenverwendung: E-Mail-Gate vor Ergebnis (Lead!) oder Ergebnis sofort + freiwillig E-Mail?
 
 ---
 
@@ -246,7 +269,7 @@ Automatisiertes PMF-Tool (Marc) ist durch SF1 (Multi-Domain) bereits verortet: *
 - ✅ ICP / Zielgruppe — Boris' ICP, Multi-Domain für andere Zielgruppen
 - ✅ Tonalität (2a) + AI-Lautstärke (2b) — klar/urgent/no-nonsense, PMF als Hauptthema, AI als Mittel, Mensch-AI-Spannungsfeld als Expertise-Signal
 - ✅ Produkt-/Subscription-Modell (3a/3b/3c) — 3-Stufen-Funnel + Coaching-Prämie + Hybrid-Pricing-Transparenz
-- ⬜ CTA-Modell
+- ✅ CTA-Modell — niederschwelliger AI-Mini-Einstieg als Primär, Diagnose sekundär, kein Chatbot
 - ⬜ Visuals / Landing
 - ⬜ LLM-Friendliness
 - ⬜ Parking Lot abgearbeitet
